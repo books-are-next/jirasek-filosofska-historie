@@ -1,0 +1,182 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Filosofská historie",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Alois Jirásek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-06T00:00:00.000Z",
+    "published": "2021-12-06T07:54:26.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/filosofska_historie_020.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_filosofska_historie.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I",
+      "href": "OEBPS/Text/filosofska_historie_007.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II",
+      "href": "OEBPS/Text/filosofska_historie_008.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "III",
+      "href": "OEBPS/Text/filosofska_historie_009.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "IV",
+      "href": "OEBPS/Text/filosofska_historie_010.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "V",
+      "href": "OEBPS/Text/filosofska_historie_011.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "VI",
+      "href": "OEBPS/Text/filosofska_historie_012.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "VII",
+      "href": "OEBPS/Text/filosofska_historie_013.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "VIII",
+      "href": "OEBPS/Text/filosofska_historie_014.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "IX",
+      "href": "OEBPS/Text/filosofska_historie_015.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "X",
+      "href": "OEBPS/Text/filosofska_historie_016.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "XI",
+      "href": "OEBPS/Text/filosofska_historie_017.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "XII",
+      "href": "OEBPS/Text/filosofska_historie_018.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "XIII",
+      "href": "OEBPS/Text/filosofska_historie_019.xhtml#_idParaDest-13"
+    }
+  ]
+}
