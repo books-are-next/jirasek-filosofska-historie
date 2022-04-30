@@ -41,7 +41,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -53,7 +53,7 @@
             "id": 1,
             "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -65,7 +65,7 @@
             "id": 2,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -77,7 +77,7 @@
             "id": 3,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -87,25 +87,27 @@
             "filename": "filosofska_historie_005.md",
             "xhtml": "filosofska_historie_005.xhtml",
             "id": 4,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Psáno roku 1887…"
           },
           {
             "filename": "filosofska_historie_006.md",
             "xhtml": "filosofska_historie_006.xhtml",
             "id": 5,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Neočekávejte…"
           },
           {
             "filename": "filosofska_historie_007.md",
@@ -282,7 +284,7 @@
             "id": 19,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -505,6 +507,6 @@
       "user": "books-are-next",
       "repo": "jirasek-filosofska-historie"
     },
-    "generatedAt": 1651312713026
+    "generatedAt": 1651317268410
   }
 }
