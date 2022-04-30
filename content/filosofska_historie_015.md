@@ -135,14 +135,14 @@ Myslila na slova Vavřenova, na svatý jeho slib, který jí byl slíbil v ozdo
 
 * * *
 
-[16](./resources/undefined) … žádná jiná. Pozn. red.
+[16](./resources/undefined) … žádná jiná. _Pozn. red._
 
-[17](./resources/undefined) Jestliže má být nějaká dáma krásná, musí být pěkně rostlá. Pozn. red.
+[17](./resources/undefined) Jestliže má být nějaká dáma krásná, musí být pěkně rostlá. _Pozn. red._
 
-[18](./resources/undefined) … musí mít tmavé oči. Pozn. red.
+[18](./resources/undefined) … musí mít tmavé oči. _Pozn. red._
 
-[19](./resources/undefined) … musí mít tmavé vlasy. Pozn. red.
+[19](./resources/undefined) … musí mít tmavé vlasy. _Pozn. red._
 
-[20](./resources/undefined) Jak říkám. Pozn. red.
+[20](./resources/undefined) Jak říkám. _Pozn. red._
 
-[21](./resources/undefined) Jen považ, jak je negalantní. Pozn. red.
+[21](./resources/undefined) Jen považ, jak je negalantní. _Pozn. red._

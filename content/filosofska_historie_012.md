@@ -213,9 +213,9 @@ Nastala májová noc.
 
 Ve své komůrce seděla u malého stolku polo odstrojená Lenka při svíčce, vrhající světlo na malou, rozevřenou knížku. V domě hluboký klid, všickni už spali. Mladá dívka, majíc ruce volně na stolku opřeny, hleděla snivě před sebe. A zase naklonila se po chvíli a četla:
 
-Je pozdní večer, první máj —  
+_Je pozdní večer, první máj —  
 večerní máj, je lásky čas.  
-Zve k lásky hrám hrdliččin hlas —
+Zve k lásky hrám hrdliččin hlas —_
 
 Znova se vytrhla. Venku zašumělo. Přistoupila k oknu, hleděla ven, pak zhasivši světlo, otevřela. Bylo vlažno, příjemně; s tmavých nebes řinul se první májový déšť a šuměl mile v kvetoucích korunách stromů před oknem stojících.
 
@@ -229,4 +229,4 @@ Tou dobou již Márinka sladce spala. Neslyšela deště, jenž na okna jejího 
 
 * * *
 
-[10](./resources/undefined) … pojď, pojď, mé milé dítě. Jen pomysli! Ta Lenka! Pozn. red.
+[10](./resources/undefined) … pojď, pojď, mé milé dítě. Jen pomysli! Ta Lenka! _Pozn. red._

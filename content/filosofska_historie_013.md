@@ -89,9 +89,9 @@ Za chvíli přestaly rty jeho se pohybovat. Oči jeho však přebíhaly ještě 
 
 Přečetl plné dva zpěvy a z třetího zbyly mu poslední verše:
 
-Je pozdní večer — druhý máj —  
+_Je pozdní večer — druhý máj —  
 večerní máj — je lásky čas,  
-hrdliččin zve ku lásce hlas.
+hrdliččin zve ku lásce hlas._
 
 Roubínku, Roubínku!
 
@@ -215,6 +215,6 @@ Elis doufám podala mu svou drobnou ruku, kterou mladý filosof vděčně stiskl
 
 * * *
 
-[11](./resources/undefined) No to se ukáže! Pozn. red.
+[11](./resources/undefined) No to se ukáže! _Pozn. red._
 
 [12](./resources/undefined) Z mravů horší známku, z ostatního výborné.

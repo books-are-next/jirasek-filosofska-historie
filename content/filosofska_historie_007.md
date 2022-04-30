@@ -279,10 +279,10 @@ A matinka významně pohlédla na dceru.
 
 [1](./resources/undefined) Napoleona.
 
-[2](./resources/undefined) … ale venku je tak hezky. Pozn. red.
+[2](./resources/undefined) … ale venku je tak hezky. _Pozn. red._
 
-[3](./resources/undefined) Je to vaše výsada! Pozn. red.
+[3](./resources/undefined) Je to vaše výsada! _Pozn. red._
 
-[4](./resources/undefined) … pyšný, bylo by možno ho vystát. Pozn. red.
+[4](./resources/undefined) … pyšný, bylo by možno ho vystát. _Pozn. red._
 
-[5](./resources/undefined) Žárlivost. Pozn. red.
+[5](./resources/undefined) Žárlivost. _Pozn. red._

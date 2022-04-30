@@ -33,4 +33,4 @@ Je to první opis provolání, které jsme před slavností ‚majáles‘ spolu
 
 \* \* \*
 
-Skonává se historie filosofská, sepsaná pro milou památku starým a pro potěšení mladým, které aby hojné bylo, auktor té kroniky upřímně rád sobě přeje a žádá.
+_Skonává se historie filosofská, sepsaná pro milou památku starým a pro potěšení mladým, které aby hojné bylo, auktor té kroniky upřímně rád sobě přeje a žádá._

@@ -163,8 +163,8 @@ Svět se obracel vzhůru kostkou! Když sama milostivá vrchnost se přidává k
 
 * * *
 
-[22](./resources/undefined) Tohle konstituční zřízení! Uviděj, ještě se bude loupit a vraždit. Pozn. red.
+[22](./resources/undefined) Tohle konstituční zřízení! Uviděj, ještě se bude loupit a vraždit. _Pozn. red._
 
-[23](./resources/undefined) A co profesoři a co páter rektor? Pozn. red.
+[23](./resources/undefined) A co profesoři a co páter rektor? _Pozn. red._
 
-[24](./resources/undefined) … mluv přece rozumně. Pozn. red.
+[24](./resources/undefined) … mluv přece rozumně. _Pozn. red._
