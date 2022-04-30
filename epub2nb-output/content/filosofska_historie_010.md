@@ -165,6 +165,6 @@ A nežli se Vavřena nadál, byl Špína ten tam. Ohlédnuv se spatřil, jak po
 
 * * *
 
-[7](./resources/undefined) Vyloučení ze studia. Pozn. red.
+[7](./resources/undefined) Vyloučení ze studia. _Pozn. red._
 
-[8](./resources/undefined) Ach, ten sprostý lid! Pozn. red.
+[8](./resources/undefined) Ach, ten sprostý lid! _Pozn. red._

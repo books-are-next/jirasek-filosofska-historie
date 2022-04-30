@@ -129,4 +129,4 @@ O masopustě příštího roku přijel si Frybort s četnou družinou hanácko
 
 * * *
 
-[25](./resources/undefined) … vezme zlý konec. Pozn. red.
+[25](./resources/undefined) … vezme zlý konec. _Pozn. red._

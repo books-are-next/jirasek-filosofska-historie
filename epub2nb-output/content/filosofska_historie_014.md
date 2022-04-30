@@ -303,8 +303,8 @@ Doby radostí i starostí, doby úsilného studování, obavy a strachu ze zko
 
 * * *
 
-[13](./resources/undefined) Trojky z chování. Pozn. red.
+[13](./resources/undefined) Trojky z chování. _Pozn. red._
 
-[14](./resources/undefined) … ale nešikovný. Pozn. red.
+[14](./resources/undefined) … ale nešikovný. _Pozn. red._
 
-[15](./resources/undefined) Samé výborné. Pozn. red.
+[15](./resources/undefined) Samé výborné. _Pozn. red._

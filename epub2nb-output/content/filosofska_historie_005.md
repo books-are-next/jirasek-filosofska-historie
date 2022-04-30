@@ -3,6 +3,6 @@ title: ''
 contentType: prose
 ---
 
-Psáno roku 1877
+_Psáno roku 1877_
 
-(Světozor)
+_(Světozor)_
