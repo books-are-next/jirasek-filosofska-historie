@@ -58,9 +58,13 @@ Na listu tom vymalována vodovými barvami bělokorá bříza, jejíž dlouhé, 
 
 Na druhé straně památního lístku bylo latinkou napsáno:
 
+* * *
+
 _Rov patř nizounký, svíží jej tráva oplítá.  
 Ó, ten rov nízký tak mnoho, všecko chová!  
 Dej mi, děvenko, ruku! Slza velká tvář ti polívá! —_
+
+* * *
 
 Dále slečna Elis nečetla. Písmo v almanachu i na lístku bylo stejné. Papír vypadl jí z ruky na knížku, na jejíž nápis „Myslimírem“ podepsaný znova hleděla. Ale oči se jí zakalily, a odvrátivši se, patřila na podobiznu mladého kněze, nad jehož hlavou vinul se půlvěnec umělých květin. Drobné, suché ruce její se bezděky sepjaly.
 
@@ -224,17 +228,25 @@ Cesta vedoucí vesnicí k háji a druhá kaštanovou alejí kolem rybníka př
 
 Blížící se již z daleka slyšeli jásavou muziku z hlubin hájových, a když umlkla, rozléhal se jasným vzduchem sborový zpěv. Stinnou klenbou košatých stromů zaznívala starostudentská píseň.
 
+* * *
+
 _In silvis resonant  
 dulcia carmina,  
 in silvis resonat  
 dulce carmen!_
 
+* * *
+
 A sotvaže sbor dozpíval, odpovídal mu jiný z jiného stinného místa:
+
+* * *
 
 _Dulcia carmina  
 in silvis resonant,  
 in silvis resonat  
 dulce carmen —_
+
+* * *
 
 Když slečna Elis s Márinkou domácích do Nedošína došly, byl háj už všecek plničký. Dole před restaurací, nevelkým to, úhledným domkem s krytým sloupořadím, usadili se hosté na prostých, prkenných lavicích v háji, neb rozložili se na hebkém trávníku pod košatými stromy. Všude živo, všude hluku a smíchu. Hlavní proud mířil stezičkou od restaurace pod strání kolem kapličky sv. Antonína do návrší, kdež byl sál. Tam hlavní veselost.
 
@@ -456,8 +468,12 @@ Vavřena vyňal z náprsní kapsy malou, tenkou knížku.
 
 Děvče zvědavě nahlédlo na první stránku.
 
+* * *
+
 _Byl pozdní večer — první máj —  
 večerní máj — byl lásky čas —_
+
+* * *
 
   
 

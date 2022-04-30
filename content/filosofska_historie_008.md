@@ -97,15 +97,27 @@ V pokojíku bylo ticho, jen občas ozvalo se cinknutí lžíce o talíř. Zele
 
 „Almanach“ Lenčin zajímal Vavřenu velice. Seděl u knížky již značnou chvíli, a přece dosud nepřečetl ani první stránku. Hledělť zamyšleně na desku, kdež na zežloutlém papíře švabachem bylo napsáno:
 
+* * *
+
 _Und weh dem Lande, dessen Söhne  
 frech verachten Heimatstöne  
 und heimatlichen Sagenkreis![6](./resources/undefined)_
 
+* * *
+
 Něco níže kulatou latinkou:
+
+* * *
 
 _Zármutek nad hynoucí vlastí jest nejbolestnější._
 
+* * *
+
+* * *
+
 _Myslimír_
+
+* * *
 
 Nad těmito řádky bylo lze se zadumati.
 
@@ -153,8 +165,12 @@ Zelenka, uslyšev zvuky laděných strun, zacpal si oběma rukama uši a skloni
 
 Plné akordy zazvučely a hned nato zapěl Frybort, sedě na posteli, zvučným barytonem:
 
+* * *
+
 _Když jsem svou Márinku  
 vyprovázel domů —_
+
+* * *
 
 Zelenka vzhlédl zoufale i prosebně k zpívajícímu druhovi a jal se partii svou polonahlas odříkávat.
 
