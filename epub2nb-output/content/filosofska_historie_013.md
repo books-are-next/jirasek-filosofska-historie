@@ -89,9 +89,13 @@ Za chvíli přestaly rty jeho se pohybovat. Oči jeho však přebíhaly ještě 
 
 Přečetl plné dva zpěvy a z třetího zbyly mu poslední verše:
 
+* * *
+
 _Je pozdní večer — druhý máj —  
 večerní máj — je lásky čas,  
 hrdliččin zve ku lásce hlas._
+
+* * *
 
 Roubínku, Roubínku!
 

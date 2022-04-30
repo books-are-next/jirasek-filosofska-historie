@@ -17,8 +17,8 @@
       "h3": "",
       "h4": "",
       "hr": "",
-      "hrBefore": "",
-      "hrAfter": "",
+      "hrBefore": "MLP_verse_-I-_-12-12-",
+      "hrAfter": "MLP_verse_-I-_-12-12-",
       "br": "",
       "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
       "brAfter": "",
@@ -117,8 +117,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "filosofska_historie_008.md",
@@ -130,8 +130,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "filosofska_historie_009.md",
@@ -143,8 +143,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "filosofska_historie_010.md",
@@ -156,8 +156,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "filosofska_historie_011.md",
@@ -169,8 +169,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "filosofska_historie_012.md",
@@ -182,8 +182,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "filosofska_historie_013.md",
@@ -195,8 +195,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "filosofska_historie_014.md",
@@ -208,8 +208,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "filosofska_historie_015.md",
@@ -221,8 +221,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "filosofska_historie_016.md",
@@ -234,8 +234,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X"
+            "title": "X",
+            "children": []
           },
           {
             "filename": "filosofska_historie_017.md",
@@ -247,8 +247,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "children": []
           },
           {
             "filename": "filosofska_historie_018.md",
@@ -260,8 +260,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII"
+            "title": "XII",
+            "children": []
           },
           {
             "filename": "filosofska_historie_019.md",
@@ -273,8 +273,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII"
+            "title": "XIII",
+            "children": []
           },
           {
             "filename": "filosofska_historie_020.md",
@@ -505,6 +505,6 @@
       "user": "books-are-next",
       "repo": "jirasek-filosofska-historie"
     },
-    "generatedAt": 1651312243462
+    "generatedAt": 1651312713026
   }
 }
