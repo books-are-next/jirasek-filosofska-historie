@@ -13,7 +13,7 @@ meta:
   modified: '2021-12-06T00:00:00.000Z'
   isbn: 978-80-274-2064-3
 readingOrder:
-  - filosofska_historie_002.html
+  - promo.html
   - filosofska_historie_005.html
   - filosofska_historie_006.html
   - filosofska_historie_007.html
