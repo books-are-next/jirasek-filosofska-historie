@@ -1,21 +1,41 @@
 {
-  "author": "Alois Jirásek",
-  "contenttype": "prose",
-  "identifier": "jirasek-filosofska-historie-48edf8e",
-  "isbn": "978-80-274-2064-3",
-  "languagecode": "cs",
-  "modified": "2021-12-06T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Filosofská historie",
-  "revision": "48edf8e",
+  "author": "Alois Jirásek",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jirasek-filosofska-historie-bea55f5",
+  "revision": "bea55f5",
+  "readingOrder": [
+    "promo.html",
+    "filosofska_historie_005.html",
+    "filosofska_historie_006.html",
+    "filosofska_historie_007.html",
+    "filosofska_historie_008.html",
+    "filosofska_historie_009.html",
+    "filosofska_historie_010.html",
+    "filosofska_historie_011.html",
+    "filosofska_historie_012.html",
+    "filosofska_historie_013.html",
+    "filosofska_historie_014.html",
+    "filosofska_historie_015.html",
+    "filosofska_historie_016.html",
+    "filosofska_historie_017.html",
+    "filosofska_historie_018.html",
+    "filosofska_historie_019.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Apr 30 2022 11:15:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651317313025
+    "date": "Thu May 12 2022 13:50:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652363459708
   },
   "documents": [
     {
-      "title": "Filosofská historie",
-      "file": "filosofska_historie_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +43,7 @@
       "order": 0,
       "prev": null,
       "next": "filosofska_historie_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Filosofská historie",
@@ -41,7 +53,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "filosofska_historie_002.html",
+      "prev": "promo.html",
       "next": "filosofska_historie_006.html",
       "toc": [
         {
@@ -74,7 +86,7 @@
       ]
     },
     {
-      "title": "I • Filosofská historie",
+      "title": "I",
       "file": "filosofska_historie_007.html",
       "words": 2768,
       "chars": 16668,
@@ -94,7 +106,7 @@
       ]
     },
     {
-      "title": "II • Filosofská historie",
+      "title": "II",
       "file": "filosofska_historie_008.html",
       "words": 1326,
       "chars": 7952,
@@ -114,7 +126,7 @@
       ]
     },
     {
-      "title": "III • Filosofská historie",
+      "title": "III",
       "file": "filosofska_historie_009.html",
       "words": 2658,
       "chars": 16463,
@@ -134,7 +146,7 @@
       ]
     },
     {
-      "title": "IV • Filosofská historie",
+      "title": "IV",
       "file": "filosofska_historie_010.html",
       "words": 1685,
       "chars": 9936,
@@ -154,7 +166,7 @@
       ]
     },
     {
-      "title": "V • Filosofská historie",
+      "title": "V",
       "file": "filosofska_historie_011.html",
       "words": 4789,
       "chars": 28852,
@@ -174,7 +186,7 @@
       ]
     },
     {
-      "title": "VI • Filosofská historie",
+      "title": "VI",
       "file": "filosofska_historie_012.html",
       "words": 2166,
       "chars": 12986,
@@ -194,7 +206,7 @@
       ]
     },
     {
-      "title": "VII • Filosofská historie",
+      "title": "VII",
       "file": "filosofska_historie_013.html",
       "words": 1951,
       "chars": 11660,
@@ -214,7 +226,7 @@
       ]
     },
     {
-      "title": "VIII • Filosofská historie",
+      "title": "VIII",
       "file": "filosofska_historie_014.html",
       "words": 3801,
       "chars": 22861,
@@ -234,7 +246,7 @@
       ]
     },
     {
-      "title": "IX • Filosofská historie",
+      "title": "IX",
       "file": "filosofska_historie_015.html",
       "words": 1961,
       "chars": 12030,
@@ -254,7 +266,7 @@
       ]
     },
     {
-      "title": "X • Filosofská historie",
+      "title": "X",
       "file": "filosofska_historie_016.html",
       "words": 1932,
       "chars": 12120,
@@ -274,7 +286,7 @@
       ]
     },
     {
-      "title": "XI • Filosofská historie",
+      "title": "XI",
       "file": "filosofska_historie_017.html",
       "words": 1885,
       "chars": 11893,
@@ -294,7 +306,7 @@
       ]
     },
     {
-      "title": "XII • Filosofská historie",
+      "title": "XII",
       "file": "filosofska_historie_018.html",
       "words": 1324,
       "chars": 8151,
@@ -314,7 +326,7 @@
       ]
     },
     {
-      "title": "XIII • Filosofská historie",
+      "title": "XIII",
       "file": "filosofska_historie_019.html",
       "words": 360,
       "chars": 2190,
@@ -334,11 +346,11 @@
       ]
     },
     {
-      "title": "Tiráž • Filosofská historie",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 907,
-      "ideas": 21,
+      "words": 116,
+      "chars": 763,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "filosofska_historie_019.html",
@@ -356,9 +368,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29058,
-      "chars": 176802,
-      "ideas": 1316
+      "words": 29040,
+      "chars": 176658,
+      "ideas": 1311
     },
     "chapters": {
       "words": 28920,
