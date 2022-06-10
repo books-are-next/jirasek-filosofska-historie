@@ -3,8 +3,6 @@ title: III
 contentType: prose
 ---
 
-  
-
 V neděli časně ráno, kdy Špína ještě spal a Zelenka již pilně v posteli studoval, zasedl Vavřena s Frybortem k malému stolku, kdež listinu, kterou minule Hanák sepsal a Vavřena opravil, znovu četli a o ní rokovali. Hovořili potichounku, šeptem, takže jim nebylo nic rozuměti; nadto byl Zelenka do svého studia tak zabrán, že kolegů tajemně rokujících ani nedbal.
 
 „Musí to být, smáli by se nám!“ dokládal Frybort.
@@ -157,6 +155,8 @@ Dívka se zarděla.
 
 Stiskl jí kvapně ruku a zaklepav vstoupil do druhého pokoje. Lenka byla v blahém vzrušení. Sice zaslechla lehounký, radostný výkřik Lottynčin, který jindy by ji mrzel, ale dnes! Hleděla dosud na titul knížky:
 
+  
+
 MOSTEK
 
 aneb
@@ -168,6 +168,8 @@ záležeti má.
 Z mladého věku a pro mladý věk vydal
 
 M. F. Klácel.
+
+  
 
 Co Lenka list za listem v nové knize zvolna převracela a nevědomky hlubokému zadumání se oddávala, byl Vavřena v ohni. Matka i dcera ptaly se o překot pana instruktora, jak se osudná ona věc dnešního rána zběhla.
 

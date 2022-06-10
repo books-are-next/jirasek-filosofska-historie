@@ -3,8 +3,6 @@ title: I
 contentType: prose
 ---
 
-  
-
 Bylo roku 1847 ke konci měsíce dubna.
 
 Jaro tehda záhy a utěšeně se otvíralo. Stromoví nevelikého parku kolem zámku litomyšlského již pučelo a nejedna houština pokryla se hebounkým šatem čerstvě zelených listů. V jasném, čistém vzduchu obrážely se určitě věže piaristského kostela a zámecké štíty s četnými báněmi. Cesty byly jako mlat a drsná dlažba dlouhého náměstí vyschla úplně. Teplé paprsky opíraly se do domů novějších i starších ještě z dob bratrských a vnikaly až do podsíní, klenoucích se po obou stranách táhlého náměstí. Za toho teplého odpoledne panoval po celém podloubí čilý život. Největší ruch v mládeži, kterou zář a teplo nového jara jako broučky vylákaly.
@@ -127,8 +125,6 @@ Tou dobou zarachotil nějaký kluk nezbeda na buben starého Kmoníčka, jenž v
 
 \* \* \*
 
-  
-
 Zatím ubíral se Vavřena „do hodiny“.
 
 Přešel podsíně a Židovské návrší, minul zámek, gymnasium a kolej piaristskou, až vkročil do tmavého domu copové výstavnosti. Nade vraty panského toho stavení vypínaly se jelení parohy, pod nimiž namalováno bylo „Boží oko“ s dlouhými, žlutými paprsky.
@@ -167,11 +163,15 @@ Knížka se rozevřela. „Smím se podívati na titul?“
 
 Lenka, upírajíc na filosofa své pěkné, jasné oči, mlčela. Ten, maje nepříliš tlustou knížku malého oktávu v rukou, četl hlasitě nadpis:
 
+  
+
 ALMANACH
 
 aneb
 
 Novoročenka 1823.
+
+  
 
 Pak bezděky spustiv listy palcem zadržované, hleděl na kmitající se stránky, na řádky prosou i veršem, až oči jeho utkvěly zase na tváři mladé dívky.
 

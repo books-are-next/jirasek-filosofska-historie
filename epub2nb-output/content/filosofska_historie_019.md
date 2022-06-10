@@ -3,8 +3,6 @@ title: XIII
 contentType: prose
 ---
 
-  
-
 Rok 1849 minul. Filosofie litomyšlská byla zrušena, legie se rozešla, prapor její zničen. Páter rektor strhl jej se žerdi, kterou zarazil do piaristské zahrady k nějakému angreštovému keři.
 
 Rollerka se vystěhovala z města ke svým příbuzným.

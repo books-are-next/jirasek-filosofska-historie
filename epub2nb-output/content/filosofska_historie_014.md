@@ -3,8 +3,6 @@ title: VIII
 contentType: prose
 ---
 
-  
-
 V koleji bylo mnoho jednání a vyslýchání.
 
 Mnozí tušili zlý konec, v městě se vypravovalo o nejhorším. Profesor náboženství, rektor a biskupský komisař uznali, že se filosofové hrubě provinili a že tedy je nutný přísný trest.
@@ -100,8 +98,6 @@ To rozhněvalo paní aktuárovou tím více. Čekala, že bude zapírati, plač�
 Přivolán i pan aktuár na pomoc. Nastala bouřka v domě. Z toho ze všeho vyšlo, že Lence zapověděla teta chodit do parku a s Vavřenou vůbec mluviti, což i muž potvrdil, a nakonec hrozba paní Roubínkové, že kdyby Lenka při tom všem setrvala, že by se tím vzdala mateřské péče své tety a že by si mohla jíti za tím hladomřivým, na nic pyšným filosofem.
 
 \* \* \*
-
-  
 
 V měsíci červenci přijel sám Hradecký biskup, aby přítomen byl zkouškám, jmenovitě z náboženství.
 
@@ -211,8 +207,6 @@ Lenka zmizela. Vavřenovi znělo dosud tiché, vroucí: „Nezapomeň!“ a na 
 
 \* \* \*
 
-  
-
 V hospodě u Prenců bylo již rozsvíceno a pod visutou lampou veselo. Páni filosofové, kteří teprve zejtra odjedou, sešli se tu, aby naposled v kolegiálním, přátelském kroužku se pobavili. Veselosti nebyl nedostatek – toť, aby student před prázdninami se rmoutil. Chvílemi kolovala píseň, pak ji přerval smích, hluk a žerty. Ale smích neměl konce, když Frybort svým vtipným způsobem jal se vypravovati nehodu, která stihla paní Rollerovou. Dnes už to vešlo sice ve všeobecnou známost, ale když Frybort vypravoval, smáli se nanovo.
 
 Při slavné dnešní mši dodrala se až na kůr a tam u samého zábradlí se usadila, majíc svůj váček na pletivo před sebou. Jak pilně pozorovala a svým pichlavým zrakem někam stranou hleděla, spatřil někdo blíže stojící, že váček je otevřený a navrchu v něm že divná věc. Když potom Rollerka opět se obrátila, div nevykřikla. Vzchopivši se rychle, vztáhla pravici po váčku, který sklouzl divnou náhodou přes zábradlí; ale nezadržela ho. Kloníc se za ním, pozorovala, že lidé se k ní vzhůru obracejí, že tu udiveně, tam smějíce se karty lapají, které z váčku vypadly a jako velké chomáčky sněhové třepetavě, zvolna na udivený dav se sypaly.
@@ -242,8 +236,6 @@ Ale nemohla, nesměla a jen potichu opakovala:
 Dveře vrzly, Frybort zašel. Všude zase klid, jen v srdci Márinčině ne. Dobrou noc!
 
 \* \* \*
-
-  
 
 Stěhování studentů bylo všeobecné. Na všech cestách z Litomyšle vedoucích bylo viděti četné vozy obtížené nářadím studentským, mířící do rozmanitých končin Čech i Moravy. Zelenka odjel dopoledne, brzo po něm Vavřena a odpoledne loučil se Frybort. Otec jeho, poctivý, zachovalý Hanák, děkoval srdečně slečně Elis, že tak syna jeho opatrovala, a vyřizoval pozdravení od panímámy, která jí leccos na znamení své uznalosti poslala do hospodářství. Veselý filosof loučil se vesele se všemi v domě, ale když Márince, té chvíle vážné a zamlklé, ruku naposledy stiskl, opustila jej veselost.
 

@@ -3,8 +3,6 @@ title: IV
 contentType: prose
 ---
 
-  
-
 Nedělní událost v koleji filosofské byla v městě něco neobyčejného, na dlouhé časy neslýchaného. Mnoho o tom všude mluvili a rozumovali, co se nyní těm odbojným studentům stane. Čekali, že hned na druhý den bude důkladné vyslýchání, ba mnozí se obávali, že někteří z pánů filosofů dostanou consilium abeundi[7](./resources/undefined).
 
 Ale mimo nadání jako by věc usnula. Nepřišel sice profesor náboženství druhého dne do koleje, ale prozatím nic jiného se nestalo.
@@ -34,8 +32,6 @@ V pondělí ráno, když všichni odešli a jen Vavřena zůstal, pravila mu v
 „Sedmačtyřicet filosofů –“ a již chtěla vykládati, jaké studenty v bytu měla; než Vavřena vzal klobouk a odešel.
 
 \* \* \*
-
-  
 
 V bytu slečny Elis bylo ticho, ač se tam vlastně mnoho dálo, ale potajmu. Zelenka žil jako obyčejně a nic ho nevyrušovalo. V koleji stál za té bouřky vzadu, nedělal hřmot a měl čisté svědomí; jenom jej mrzelo, že by mohl také být vyslýchán. Vyučoval jako jindy, doma pak studoval a pojídal vyměřené díly chleba a ovocnou kaši.
 
@@ -70,8 +66,6 @@ Stála okamžik tiše, hledíc za ním, jako by vysvětlení očekávala. Kroky 
 A bylo jí opravdu jako do skoku a zajásání.
 
 \* \* \*
-
-  
 
 Dokud Špína měl strýce faráře na živu, bylo dobře. Podporovatel však zemřel a studentovi, jenž ani rodičů, ani přátel, ani jmění neměl, nezbylo, než aby se živil vyučováním po domech. Právě se vrátil pozdě odpoledne „z hodiny“ a již chápal se dýmky, aby při knize si zabafčil, tu najednou se u dveří jen přivřených zastavil, jako by jej někdo tam přimrazil. Dech se mu na okamžik zatajil a kolena zachvěla. Nebyl by ani za dukát v tu chvíli slovíčka ze sebe vypravil.
 
@@ -124,8 +118,6 @@ Když brzy poté Frybort do svého pokojíku vstupoval, narazil ve dveřích na 
 Ale jen nesrozumitelné zahučení bylo mu odpovědí.
 
 \* \* \*
-
-  
 
 Nastal večer noci před sv. Filipem a Jakubem.
 

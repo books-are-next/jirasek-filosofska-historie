@@ -3,8 +3,6 @@ title: IX
 contentType: prose
 ---
 
-  
-
 Slečna Elis byla pravou dobroditelkou mladých milujících, a proto byla u ní skoro filiální pošta.
 
 Sluha poštovní po každé, kdy diligence přijela, přinesl jí aspoň jedno psaní, a ona málokteré rozpečetila.

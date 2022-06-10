@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-filosofska-historie-bea55f5",
-  "revision": "bea55f5",
+  "identifier": "jirasek-filosofska-historie-df6989b",
+  "revision": "df6989b",
   "readingOrder": [
     "promo.html",
     "filosofska_historie_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 13:50:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652363459708
+    "date": "Fri Jun 10 2022 14:17:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870637333
   },
   "documents": [
     {
@@ -348,9 +348,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 763,
-      "ideas": 16,
+      "words": 111,
+      "chars": 730,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "filosofska_historie_019.html",
@@ -368,9 +368,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29040,
-      "chars": 176658,
-      "ideas": 1311
+      "words": 29035,
+      "chars": 176625,
+      "ideas": 1310
     },
     "chapters": {
       "words": 28920,

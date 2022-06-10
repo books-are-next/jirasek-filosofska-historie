@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-bea55f5';
+const CACHE = 'cache-df6989b';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./filosofska_historie_005.html","./filosofska_historie_007.html","./filosofska_historie_006.html","./filosofska_historie_008.html","./filosofska_historie_009.html","./filosofska_historie_010.html","./filosofska_historie_011.html","./filosofska_historie_012.html","./filosofska_historie_013.html","./filosofska_historie_014.html","./filosofska_historie_015.html","./filosofska_historie_016.html","./filosofska_historie_017.html","./filosofska_historie_018.html","./filosofska_historie_019.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/upoutavka_eknihy.jpg","./resources/obalka_filosofska_historie.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./filosofska_historie_005.html","./filosofska_historie_006.html","./filosofska_historie_007.html","./filosofska_historie_008.html","./filosofska_historie_009.html","./filosofska_historie_010.html","./filosofska_historie_011.html","./filosofska_historie_012.html","./filosofska_historie_013.html","./filosofska_historie_014.html","./filosofska_historie_015.html","./filosofska_historie_016.html","./filosofska_historie_017.html","./filosofska_historie_018.html","./filosofska_historie_019.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_filosofska_historie.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

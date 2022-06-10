@@ -3,8 +3,6 @@ title: II
 contentType: prose
 ---
 
-  
-
 Frybort psal, škrtal, opravoval, přemýšlel a nanovo psal. Tak se zahloubal do své práce, že neslyšel ani hluk, ani šum, jenž otevřeným oknem z podsíně a náměstí do jeho pokojíku zaléhal. Pokoj ten byl pravý studentský byt, nevelký, bez ozdob a pěkného nábytku. Čtyři postele a černý kufr, u každé stojící, zabíraly nejvíce místa. Mimo ně tu byly dva větší stoly, jeden menší, u kterého Frybort psal, a vzadu u zdi stojan na knihy. Na zdi visely v hnědých rámcích dvě kolorované mědirytiny dle francouzských originálů a mezi nimi kytara na zelené pentli.
 
 Právě dočítal si Frybort potichu na čisto již přepsaný svůj plod, když v předním pokoji ozval se mírný hlas slečny Elis, kteréž dutý bas odpovídal.
@@ -97,6 +95,8 @@ V pokojíku bylo ticho, jen občas ozvalo se cinknutí lžíce o talíř. Zele
 
 „Almanach“ Lenčin zajímal Vavřenu velice. Seděl u knížky již značnou chvíli, a přece dosud nepřečetl ani první stránku. Hledělť zamyšleně na desku, kdež na zežloutlém papíře švabachem bylo napsáno:
 
+  
+
 * * *
 
 _Und weh dem Lande, dessen Söhne  
@@ -105,7 +105,11 @@ und heimatlichen Sagenkreis![6](./resources/undefined)_
 
 * * *
 
+  
+
 Něco níže kulatou latinkou:
+
+  
 
 * * *
 
@@ -113,11 +117,16 @@ _Zármutek nad hynoucí vlastí jest nejbolestnější._
 
 * * *
 
+  
+  
+
 * * *
 
 _Myslimír_
 
 * * *
+
+  
 
 Nad těmito řádky bylo lze se zadumati.
 
@@ -131,7 +140,11 @@ A opět zahleděl se na psaná ta smutná slova. Viděl před sebou vážného,
 
 A ona naslouchá, hledíc na starce, jako dnes jemu naslouchala, hledíc naň zářícím, vlhkým okem. List se převrátil a zakryl desku.
 
+  
+
 PINDAR A KORINA
+
+  
 
 Probuzen ze svého snění, jal se Vavřena čísti povídku v čele almanachu umístěnou:
 
@@ -165,12 +178,16 @@ Zelenka, uslyšev zvuky laděných strun, zacpal si oběma rukama uši a skloni
 
 Plné akordy zazvučely a hned nato zapěl Frybort, sedě na posteli, zvučným barytonem:
 
+  
+
 * * *
 
 _Když jsem svou Márinku  
 vyprovázel domů —_
 
 * * *
+
+  
 
 Zelenka vzhlédl zoufale i prosebně k zpívajícímu druhovi a jal se partii svou polonahlas odříkávat.
 

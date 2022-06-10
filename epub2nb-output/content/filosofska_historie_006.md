@@ -4,14 +4,6 @@ hiddenTitle: true
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
-  
-
 Neočekávejte, že vás zavedu do stinné zahrady Akademovy, abyste tam naslouchali učení božského Platona, aniž ve tmavý stín bujně zeleného vavřínu, kde by za ambrosiové noci mysl vaši naplňovala rozkoší hudba sfér nebeských.
 
 Nevkročíme v onen svět, „kde Sokrates každému o sobě, že nic neumí, povídá, kde Diogenes ze sudu vykoukaje všecky mimojdoucí haní, kde Timon všechněm zlořečí, Demokritos všemu tomu se směje, Herakleitos naproti tomu pláče, Epikur hoduje a Anaxarchos praví, že to všecko nic není“.

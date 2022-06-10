@@ -3,8 +3,6 @@ title: XII
 contentType: prose
 ---
 
-  
-
 V noci dne 14. června vyšlo vojsko tajně z Prahy a obsadilo Hradčany. Druhého dne kníže Windischgrätz vyřkl nad Prahou obleženost. Lid podnikl nerovný boj. Ze Starého Města stříleli na Malou Stranu, načež vojsko odpovídalo hrubou střelbou granátovou.
 
 V davu bojujících studentů byl Vavřena i Frybort, ale bojovali od sebe vzdáleni; Vavřena stál v houfu studentském a pilně střílel.
@@ -38,8 +36,6 @@ To bylo 15. června. Den nato uzavřena čestná kapitulace; ale Windischgrätz 
 Dne 17. června vzdala se Praha. Vojsko vtrhlo do města a nastalo houfné zatýkání.
 
 \* \* \*
-
-  
 
 Prve nežli se Praha vzdala a než došlo k těm smutným koncům, vrátila se pomoc litomyšlská.
 
@@ -95,8 +91,6 @@ Následujícího večera neslyšela již komůrka Lenčina tichý, bolestný pl�
 
 \* \* \*
 
-  
-
 Bouře pražská potlačena, nastaly výslechy a tresty.
 
 Špína si už všechno odbyl. Dlouho se v kutně, která ho nikterak netěšila, nesoužil.
@@ -116,8 +110,6 @@ Po prázdninách přijel Frybort s otcem a požádal o ruku Márin­činu. Pa
 Objala jej.
 
 \* \* \*
-
-  
 
 Nyní chodívala psaní z Moravy přímo na adresu Márinčinu; slečna Elis dostávala jen listy z Prahy, které vlastně byly Lenčiny. Psával je Vojtěch Vavřena, medicinae studiosus. Ušelť šťastně všemu vyšetřování, mohl klidně dále studovati.
 
