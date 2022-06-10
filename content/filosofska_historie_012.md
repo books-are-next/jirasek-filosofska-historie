@@ -3,8 +3,6 @@ title: VI
 contentType: prose
 ---
 
-  
-
 Nedošínský háj zvučel hudbou, zpěvem, smíchem, veselým hovorem a křikem. Nejvíce lidí skupilo se u tančírny, pak v dolejší části u restaurace. Než po všech cestičkách, i odlehlejších, bylo viděti procházející se, nejvíce mladé.
 
 V tichém zákoutí, hluboko v háji, kráčel zvolna, jak na filosofa se sluší, Špína všecek zadumaný. Měl na sobě černý frak po nebožtíkovi strýci, který byl na dnešek tak cídil a připravoval; na filosofské hlavě trčel dosti slušný kastor. Mladý muž bojoval se svou neodhodlaností a bázlivostí. Viděl prve Márinku v kole, krásnou, zářící, a oheň jeho srdce rozplápolal se žíravým plamenem.
@@ -26,8 +24,6 @@ A ona se nebrání, nekřičí!
 Šťastní milenci v šepotu a líbání kráčeli dále. Jako ohromený stál Špína a upřeně hleděl na místo, kde ten úlisník to děvče jako jahodu svěží tak směle líbal. Procitnuv z ustrnutí, loudal se odtud, maje hlavu více skloněnou, více zamračenou, než by se na filosofa slušelo a patřilo.
 
 \* \* \*
-
-  
 
 Paní Rollerová, vdova po bývalém purkmistru, přísnější a mocnější než sám „pulmistr“, domnívala se, že dosud moc v jejích rukou, a nevzdala se proto úřadu svého censorského. Nic nezatajeno před jejím bystrým zrakem, vše stíhala svou ostrou i zlou kritikou. Zbrousivši háj, zastavila se u paní aktuárové, s kterou ihned zapředla důležitý hovor.
 
@@ -62,8 +58,6 @@ Uslyšela, co paní purkmistrová matince pověděla. Lotty hněvem se zarděla,
 Čekala smích, bouři, všecko protivné; mnohé již v domě strýcově snesla a příštího se nestrachovala. Ba uvnitř zajásala, vždyť ona vlastně zvítězila. Nechť se děje cokoliv, není již sama, opuštěná. Září jí tolik teplého světla, že nelekala se bezcitného, ledového ousměšku.
 
 \* \* \*
-
-  
 
 To byly majáles!
 
@@ -157,8 +151,6 @@ Krajan chvilenku nad ním stál a domlouval, ale pak vida, že je důvěry zbav
 
 \* \* \*
 
-  
-
 Slunce zapadlo za háj; dav výletníků řidl a na cestách vedoucích do Litomyšle bylo zase živo.
 
 Byly to většinou měšťanské rodiny, které tudy se ubíraly, aby před nocí domov stihly. Mladším pak, zvláště studentům, nechtělo se dlouho z té stinné klenby hájové, kde se tak výborně vyráželi.
@@ -213,6 +205,8 @@ Nastala májová noc.
 
 Ve své komůrce seděla u malého stolku polo odstrojená Lenka při svíčce, vrhající světlo na malou, rozevřenou knížku. V domě hluboký klid, všickni už spali. Mladá dívka, majíc ruce volně na stolku opřeny, hleděla snivě před sebe. A zase naklonila se po chvíli a četla:
 
+  
+
 * * *
 
 _Je pozdní večer, první máj —  
@@ -220,6 +214,8 @@ večerní máj, je lásky čas.
 Zve k lásky hrám hrdliččin hlas —_
 
 * * *
+
+  
 
 Znova se vytrhla. Venku zašumělo. Přistoupila k oknu, hleděla ven, pak zhasivši světlo, otevřela. Bylo vlažno, příjemně; s tmavých nebes řinul se první májový déšť a šuměl mile v kvetoucích korunách stromů před oknem stojících.
 

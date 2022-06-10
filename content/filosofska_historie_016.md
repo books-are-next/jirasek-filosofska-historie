@@ -3,8 +3,6 @@ title: X
 contentType: prose
 ---
 
-  
-
 Otevřelo se nové jaro, jež přineslo mimo květ a zpěv také červánky a skvělou zář nové doby, po které národové absolutismem sklíčení toužili a dychtili. Metternich padl, censura zrušena a dovoleno zřízení národní obrany. Dne 15. března prohlášena konstituce. Zpráva o tom naplnila Prahu i veškeré království plesem a jásotem.
 
 Národní obrana či garda zřizovala se nejenom v Praze, ale po veškerém království.
@@ -108,8 +106,6 @@ Ta legie mu nešla z hlavy. Vlastenci! Hm, nač tu zbraň a ty zelené čepič
 Sklonil se a psal. Na papír vyplynuly z brkového péra zelené čepičky. Kdo to jakživ slyšel? Žižka a císař Josef byli také vlastenci, a – zbraň, zelené čepičky! Zkáza!
 
 \* \* \*
-
-  
 
 Filosofové po odbytých přednáškách scházeli se, aby se cvičili vojensky. Z počátku panovala svornost mezi nimi, ale když většina česká nechtěla déle trpěti nesnášelivost a panovačnost Němců, vystoupili tito z legie, kteráž stavši se nyní rozhodně vlasteneckou, zvolila sobě za setníka rázného Čecha Jehličku.
 

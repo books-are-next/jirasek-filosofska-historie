@@ -3,8 +3,6 @@ title: VII
 contentType: prose
 ---
 
-  
-
 Nastal nový den a s ním obyčejný život. Na vížce gymnasijní odzvoněno, studenti se scházeli plným počtem do koleje jako jindy. Opojení, radostné nadšení zmizelo a střízlivé uvažování zavládlo.
 
 Profesor náboženství opět nepřišel do koleje. Vzpomněli na slova přísného rektora, že profesor dotud nepřijde, dokud mu nebude dáno zadostučinění. Rokovali o tom, co činiti. Prve však nežli se dohodli, voláni jsou někteří k rektorovi, a mezi nimi Frybort a Vavřena.
@@ -89,6 +87,8 @@ Za chvíli přestaly rty jeho se pohybovat. Oči jeho však přebíhaly ještě 
 
 Přečetl plné dva zpěvy a z třetího zbyly mu poslední verše:
 
+  
+
 * * *
 
 _Je pozdní večer — druhý máj —  
@@ -97,11 +97,11 @@ hrdliččin zve ku lásce hlas._
 
 * * *
 
+  
+
 Roubínku, Roubínku!
 
 \* \* \*
-
-  
 
 Pan aktuár vstal dle všeho levou nohou z postele. Byl mrzut. Snad příčinou toho byly ošklivé sny, jaké jej téměř po celou noc soužily. Arest, řetězy, policajti daleko větší a hroznější než Kmoníček, šibenice, kostlivci, to všecko se mu pletlo v zmateném snu, z něhož div se nepropotil hrůzou a zděšením.
 
@@ -172,8 +172,6 @@ Slečna, majíc po tolik let filosofy, přiučila se těm latinským třídám n
 „Šel do hodiny.“
 
 \* \* \*
-
-  
 
 Vavřena, kráčeje po schodech k bytu aktuárovu, hleděl dychtivě před se a čekal, že Lenku uvidí. Ale chodba byla prázdná, dveře Lenčina pokojíku zavřeny. Již druhý den ji neviděl. Toužil ji spatřiti. Věděl, že to není náhodou, že aktuárka jí brání. Dnes bylo jako včera, ani matka, ani dcera si instruktora nevšimly tak jako jindy.
 

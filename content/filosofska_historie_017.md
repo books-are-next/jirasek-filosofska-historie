@@ -3,8 +3,6 @@ title: XI
 contentType: prose
 ---
 
-  
-
 Ruch vlastenecký dělal stále větší kola, zasahal dál a dále. I dívky a paní, v záležitostech národních namnoze lhostejné, neubránily se proudu. Dobré símě, zaseté Dobromilou Rettigovou, vydalo nyní hojné ovoce. Ruch oné doby byl jako deštěm, jenž rostlinu vlastenectví, tu v úkrytu rostoucí, tam jen živořící, povzbudil a vzkřísil. Nejvíce se z toho hnutí radovaly slečna Elis a Lenka. Zatím co gardy a studenti se cvičili, na stráže chodili, ponůcky zastávali, sbíraly paní a dívky mezi sebou peníze, a když sebrány, ušit a ozdoben krásný prapor, který se měl vznášeti nad hlavami studentských legionářů.
 
 Sběratelky nepochodily u Roubínků valně. Paní aktuárová, která by jim byla nejraději dveře ukázala, neuhodila se příliš přes kapsu. Ale nešlo to jen tak za těch konstitučních časů, aby je vůbec odbyla. Když sběratelky odešly, potkaly na schodech Roubínkovu schovanku, která tam patrně na ně čekala. Zardívajíc se, vyňala z kapsičky své zástěrky něco v papíře zabaleného a odevzdala sběratelkám.
@@ -36,8 +34,6 @@ U otevřeného okna stála slečna Elis s Lenkou. Obě vlastenky hleděly s v
 Hudba zahřměla a všecky korporace i všecken zástup ubíral se dlouhým průvodem zpět ke kostelu piaristskému, kdež slavnost mší a zpěvem „Te deum“ měla být zakončena. Elis s radostí patřila na četné řady filosofů, kteří hrdě si za novým praporem vykračovali, ale Lence zasvitlo líčko rumnou září, když štíhlý důstojník k ní do okna vzhlédl a pohledem i úsměvem pozdravoval.
 
 \* \* \*
-
-  
 
 Ruch veřejného života neumdléval, ale den ode dne se vzmáhal. Z Prahy rozcházelo se pohnutí, rozechvění do všech částí českého království. Náhlé, neočekávané obraty dály se téměř přes noc, událostí vždy nové, domácí i zahraničné zaměstnávaly a rozčilovaly všechny vrstvy. Vypsányť volby do českého sněmu i do parlamentu frankfurtského, Palacký vydal svůj slavný manifest. Pak Češi a Němci, dříve svorní, rozrůznili se. V Praze udála se i nejedna výtržnost a kocovina.
 
@@ -92,8 +88,6 @@ Nevšimla si Fryborta a Vavřeny, kteří chvatně kráčeli tam, odkud přijí
 Deputace dojížděla města, ale tu již potkávala čety gardistů a ostrostřelců, kteří, nedočkavše zpráv, rázem se rozhodli vytáhnouti Praze na pomoc. U hostince Babky již stály vozy, na nichž naloženy potrava a všechny potřeby té malé měšťanské armády. Zprávami svými, kterých na dráze nabyli, nezvrátili ji vyslaní měšťané, ano potvrdili, že všemu tak a že gardy měst českých táhnou ku Praze. Dali se na pochod.
 
 \* \* \*
-
-  
 
 Tou dobou pásal se také aktuár Roubínek dlouhým svým starožitným palašem na obranu matičky Prahy. Žižka a císař Josef byli podle něho také vlastenci, ale takhle zajisté meč si nepřipínali. Roubínek byl bledý, strachem ztrnulý, a dlouho to trvalo, než sobě řemen zapjal. Sklíčenost jeho množil zármutek i pláč manželčin i dceřin.
 

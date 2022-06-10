@@ -3,8 +3,6 @@ title: V
 contentType: prose
 ---
 
-  
-
 Zástup lidí se rozešel, všechen hluk potuchl a oheň doplanul. Kolem noční šero, jímž u lesů na obzorných výšinách ještě tu a tam ohně jako krvavé hvězdy zářily. A jak tichá, vlažná noc svou drahou se ubírala, všecka zahalena tmavým, vzdušným pláštěm, zhasínal oheň po ohni, až po veškeré krajině nebylo ani jiskřičky. Halekání, zpěv a jásot bujných junáků umlkly a zavládlo tajemné ticho první májové noci.
 
 Luzná, velebná chvíle velikého mysteria –
@@ -41,7 +39,11 @@ Div divoucí! Copak jej přimělo, že tak záhy vstal a studuje!
 
 Když pak slečna osaměla, vstoupila do studentského pokoje, aby rovnala po svém obyčeji na stolech. Na samém kraji ležela nevelká knížka, kterouž ihned poznala. Byla to ta, ze které Frybort ráno studoval. Jaká to kouzelnice, že na tak dlouho připoutala filosofa, jenž se do filosofie tuze nehnal? Slečna Elis otevřela knížku tam, kde bylo znamení založeno, a četla:
 
+  
+
 > MLYNÁŘOVA OPIČKA
+
+  
 
 _„Ženo! přestaň pořád vrčet,  
 jako had vždy na mne syčet!“  
@@ -49,6 +51,8 @@ zakřik mlynář Toničku —
 „jako bych ti mlejn prohejřil,  
 nebo se ti pronevěřil,  
 že mám rád svou opičku!“_
+
+  
 
 Ah, to ta filosofie! Žertovná báseň! Ovšem, oč jiného by se ten šelma staral, než o kudrlinky a žerty? Jaká to knížka? Slečna Elis četla nápis, který Vavřena u Lenky byl nahlas četl. Když chtěla přiklopiti desku, padly jí do očí psané řádky na vnitřní straně. Zarazila se. Přečetla je jednou, po druhé, pak přistoupila k oknu, naklonila se k rukopisu, bedlivě jej prohlížela. Na zvadlé tváři bylo patrno pohnutí. Chvilku stála zamyšlena nad tím písmem, pak rychle odešla do svého pokoje, kdež ze skříně vytáhla modlicí knížky.
 
@@ -58,6 +62,8 @@ Na listu tom vymalována vodovými barvami bělokorá bříza, jejíž dlouhé, 
 
 Na druhé straně památního lístku bylo latinkou napsáno:
 
+  
+
 * * *
 
 _Rov patř nizounký, svíží jej tráva oplítá.  
@@ -66,11 +72,11 @@ Dej mi, děvenko, ruku! Slza velká tvář ti polívá! —_
 
 * * *
 
+  
+
 Dále slečna Elis nečetla. Písmo v almanachu i na lístku bylo stejné. Papír vypadl jí z ruky na knížku, na jejíž nápis „Myslimírem“ podepsaný znova hleděla. Ale oči se jí zakalily, a odvrátivši se, patřila na podobiznu mladého kněze, nad jehož hlavou vinul se půlvěnec umělých květin. Drobné, suché ruce její se bezděky sepjaly.
 
 \* \* \*
-
-  
 
 Po jedenácté přihrnul se chvatně domů Frybort a spěchal do svého pokojíku. Slečna jej hned zastavila, od koho má tu knížku, ten malý almanach. Dověděla se, že to Vavřenův.
 
@@ -146,8 +152,6 @@ Aktuár dále se nestaral. Seděl v lenošce, kouřil z dýmky a díval se na
 
 \* \* \*
 
-  
-
 Chodbou piaristické koleje kráčel bělovlasý stařec vysoké postavy, páter German, profesor historie v koleji filosofické; proti němu vystoupil suchý, bledý profesor náboženství.
 
 „Slyšel jste, viděl jste?“ tázal se rozechvělým hlasem vážného kmeta.
@@ -216,8 +220,6 @@ Studenti odešli a stará, dobrá panna se strojila. Vše na ní bylo tak, jak 
 
 \* \* \*
 
-  
-
 Ó Nedošíne, Nedošíne, sláva tvá pominula!
 
 Prořidlo tvé stromoví, ty tam jsou pavilonky, eremitáže, zmizela letní síň, kde se za veselé hudby jará mládež tanci oddávala.
@@ -228,6 +230,8 @@ Cesta vedoucí vesnicí k háji a druhá kaštanovou alejí kolem rybníka př
 
 Blížící se již z daleka slyšeli jásavou muziku z hlubin hájových, a když umlkla, rozléhal se jasným vzduchem sborový zpěv. Stinnou klenbou košatých stromů zaznívala starostudentská píseň.
 
+  
+
 * * *
 
 _In silvis resonant  
@@ -237,7 +241,11 @@ dulce carmen!_
 
 * * *
 
+  
+
 A sotvaže sbor dozpíval, odpovídal mu jiný z jiného stinného místa:
+
+  
 
 * * *
 
@@ -247,6 +255,8 @@ in silvis resonat
 dulce carmen —_
 
 * * *
+
+  
 
 Když slečna Elis s Márinkou domácích do Nedošína došly, byl háj už všecek plničký. Dole před restaurací, nevelkým to, úhledným domkem s krytým sloupořadím, usadili se hosté na prostých, prkenných lavicích v háji, neb rozložili se na hebkém trávníku pod košatými stromy. Všude živo, všude hluku a smíchu. Hlavní proud mířil stezičkou od restaurace pod strání kolem kapličky sv. Antonína do návrší, kdež byl sál. Tam hlavní veselost.
 
@@ -287,8 +297,6 @@ Zvuky veselého kousku ztlumeně k ní zaléhaly; v nich zazvučel jí ohlas d
 Vzpomněla na svá léta. Doba minulá obživla a ze šera hájového vystupovaly známé milé postavy; a tu ten štíhlý mladík, jenž ji z kola do háje odvádí. Jde zavěšená na jeho rámě, zapomíná na tanec i hudbu a naslouchá jen jeho slovům. Mžikem vrací se ve vzpomínání šťastná chvíle za chvílí, až stane u té poslední a nejbolestnější. Bylo to také v tom háji, v těch místech, kde naposledy s ním stála, kde se s ní loučil navždy. Obětoval se pro rodiče, obětoval ji a sebe.
 
 \* \* \*
-
-  
 
 Ten starý, nahrbený strom v hloubi háje nepomyslil si, že by dnes mohl někoho k sobě přivábiti. Ale stalo se.
 
@@ -467,6 +475,8 @@ Vavřena vyňal z náprsní kapsy malou, tenkou knížku.
 „Tu se podívejte a já zatím přivedu Fricka.“ Odkvapil.
 
 Děvče zvědavě nahlédlo na první stránku.
+
+  
 
 * * *
 
