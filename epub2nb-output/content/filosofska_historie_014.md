@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 V koleji bylo mnoho jednání a vyslýchání.
 
 Mnozí tušili zlý konec, v městě se vypravovalo o nejhorším. Profesor náboženství, rektor a biskupský komisař uznali, že se filosofové hrubě provinili a že tedy je nutný přísný trest.
@@ -300,3 +302,5 @@ Doby radostí i starostí, doby úsilného studování, obavy a strachu ze zko
 [14](./resources/undefined) … ale nešikovný. _Pozn. red._
 
 [15](./resources/undefined) Samé výborné. _Pozn. red._
+
+</section>

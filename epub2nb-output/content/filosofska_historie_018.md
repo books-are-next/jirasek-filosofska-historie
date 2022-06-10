@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 V noci dne 14. června vyšlo vojsko tajně z Prahy a obsadilo Hradčany. Druhého dne kníže Windischgrätz vyřkl nad Prahou obleženost. Lid podnikl nerovný boj. Ze Starého Města stříleli na Malou Stranu, načež vojsko odpovídalo hrubou střelbou granátovou.
 
 V davu bojujících studentů byl Vavřena i Frybort, ale bojovali od sebe vzdáleni; Vavřena stál v houfu studentském a pilně střílel.
@@ -122,3 +124,5 @@ O masopustě příštího roku přijel si Frybort s četnou družinou hanácko
 * * *
 
 [25](./resources/undefined) … vezme zlý konec. _Pozn. red._
+
+</section>

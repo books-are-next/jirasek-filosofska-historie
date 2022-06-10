@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Nastal nový den a s ním obyčejný život. Na vížce gymnasijní odzvoněno, studenti se scházeli plným počtem do koleje jako jindy. Opojení, radostné nadšení zmizelo a střízlivé uvažování zavládlo.
 
 Profesor náboženství opět nepřišel do koleje. Vzpomněli na slova přísného rektora, že profesor dotud nepřijde, dokud mu nebude dáno zadostučinění. Rokovali o tom, co činiti. Prve však nežli se dohodli, voláni jsou někteří k rektorovi, a mezi nimi Frybort a Vavřena.
@@ -87,7 +89,9 @@ Za chvíli přestaly rty jeho se pohybovat. Oči jeho však přebíhaly ještě 
 
 Přečetl plné dva zpěvy a z třetího zbyly mu poslední verše:
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -97,7 +101,9 @@ hrdliččin zve ku lásce hlas._
 
 * * *
 
-  
+</section>
+
+<section>
 
 Roubínku, Roubínku!
 
@@ -220,3 +226,5 @@ Elis doufám podala mu svou drobnou ruku, kterou mladý filosof vděčně stiskl
 [11](./resources/undefined) No to se ukáže! _Pozn. red._
 
 [12](./resources/undefined) Z mravů horší známku, z ostatního výborné.
+
+</section>

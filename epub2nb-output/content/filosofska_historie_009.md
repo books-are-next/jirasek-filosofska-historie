@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 V neděli časně ráno, kdy Špína ještě spal a Zelenka již pilně v posteli studoval, zasedl Vavřena s Frybortem k malému stolku, kdež listinu, kterou minule Hanák sepsal a Vavřena opravil, znovu četli a o ní rokovali. Hovořili potichounku, šeptem, takže jim nebylo nic rozuměti; nadto byl Zelenka do svého studia tak zabrán, že kolegů tajemně rokujících ani nedbal.
 
 „Musí to být, smáli by se nám!“ dokládal Frybort.
@@ -155,7 +157,9 @@ Dívka se zarděla.
 
 Stiskl jí kvapně ruku a zaklepav vstoupil do druhého pokoje. Lenka byla v blahém vzrušení. Sice zaslechla lehounký, radostný výkřik Lottynčin, který jindy by ji mrzel, ale dnes! Hleděla dosud na titul knížky:
 
-  
+</section>
+
+<section>
 
 MOSTEK
 
@@ -169,7 +173,9 @@ Z mladého věku a pro mladý věk vydal
 
 M. F. Klácel.
 
-  
+</section>
+
+<section>
 
 Co Lenka list za listem v nové knize zvolna převracela a nevědomky hlubokému zadumání se oddávala, byl Vavřena v ohni. Matka i dcera ptaly se o překot pana instruktora, jak se osudná ona věc dnešního rána zběhla.
 
@@ -208,3 +214,5 @@ Znenadání pozvedl Roubínek hlavu a prohodil nahlas, na nikoho se nedívaje:
 „Také takový novotář a rebelant!“
 
 Patrně zapomněl na větu v péře a myslil dosud na domácího instruktora.
+
+</section>

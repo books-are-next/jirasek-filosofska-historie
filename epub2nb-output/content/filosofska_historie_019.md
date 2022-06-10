@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Rok 1849 minul. Filosofie litomyšlská byla zrušena, legie se rozešla, prapor její zničen. Páter rektor strhl jej se žerdi, kterou zarazil do piaristské zahrady k nějakému angreštovému keři.
 
 Rollerka se vystěhovala z města ke svým příbuzným.
@@ -32,3 +34,5 @@ Je to první opis provolání, které jsme před slavností ‚majáles‘ spolu
 \* \* \*
 
 _Skonává se historie filosofská, sepsaná pro milou památku starým a pro potěšení mladým, které aby hojné bylo, auktor té kroniky upřímně rád sobě přeje a žádá._
+
+</section>

@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Slečna Elis byla pravou dobroditelkou mladých milujících, a proto byla u ní skoro filiální pošta.
 
 Sluha poštovní po každé, kdy diligence přijela, přinesl jí aspoň jedno psaní, a ona málokteré rozpečetila.
@@ -144,3 +146,5 @@ Myslila na slova Vavřenova, na svatý jeho slib, který jí byl slíbil v ozdo
 [20](./resources/undefined) Jak říkám. _Pozn. red._
 
 [21](./resources/undefined) Jen považ, jak je negalantní. _Pozn. red._
+
+</section>
