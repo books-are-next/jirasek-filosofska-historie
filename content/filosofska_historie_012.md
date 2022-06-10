@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Nedošínský háj zvučel hudbou, zpěvem, smíchem, veselým hovorem a křikem. Nejvíce lidí skupilo se u tančírny, pak v dolejší části u restaurace. Než po všech cestičkách, i odlehlejších, bylo viděti procházející se, nejvíce mladé.
 
 V tichém zákoutí, hluboko v háji, kráčel zvolna, jak na filosofa se sluší, Špína všecek zadumaný. Měl na sobě černý frak po nebožtíkovi strýci, který byl na dnešek tak cídil a připravoval; na filosofské hlavě trčel dosti slušný kastor. Mladý muž bojoval se svou neodhodlaností a bázlivostí. Viděl prve Márinku v kole, krásnou, zářící, a oheň jeho srdce rozplápolal se žíravým plamenem.
@@ -205,7 +207,9 @@ Nastala májová noc.
 
 Ve své komůrce seděla u malého stolku polo odstrojená Lenka při svíčce, vrhající světlo na malou, rozevřenou knížku. V domě hluboký klid, všickni už spali. Mladá dívka, majíc ruce volně na stolku opřeny, hleděla snivě před sebe. A zase naklonila se po chvíli a četla:
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -215,7 +219,9 @@ Zve k lásky hrám hrdliččin hlas —_
 
 * * *
 
-  
+</section>
+
+<section>
 
 Znova se vytrhla. Venku zašumělo. Přistoupila k oknu, hleděla ven, pak zhasivši světlo, otevřela. Bylo vlažno, příjemně; s tmavých nebes řinul se první májový déšť a šuměl mile v kvetoucích korunách stromů před oknem stojících.
 
@@ -230,3 +236,5 @@ Tou dobou již Márinka sladce spala. Neslyšela deště, jenž na okna jejího 
 * * *
 
 [10](./resources/undefined) … pojď, pojď, mé milé dítě. Jen pomysli! Ta Lenka! _Pozn. red._
+
+</section>

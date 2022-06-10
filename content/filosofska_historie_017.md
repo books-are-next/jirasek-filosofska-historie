@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Ruch vlastenecký dělal stále větší kola, zasahal dál a dále. I dívky a paní, v záležitostech národních namnoze lhostejné, neubránily se proudu. Dobré símě, zaseté Dobromilou Rettigovou, vydalo nyní hojné ovoce. Ruch oné doby byl jako deštěm, jenž rostlinu vlastenectví, tu v úkrytu rostoucí, tam jen živořící, povzbudil a vzkřísil. Nejvíce se z toho hnutí radovaly slečna Elis a Lenka. Zatím co gardy a studenti se cvičili, na stráže chodili, ponůcky zastávali, sbíraly paní a dívky mezi sebou peníze, a když sebrány, ušit a ozdoben krásný prapor, který se měl vznášeti nad hlavami studentských legionářů.
 
 Sběratelky nepochodily u Roubínků valně. Paní aktuárová, která by jim byla nejraději dveře ukázala, neuhodila se příliš přes kapsu. Ale nešlo to jen tak za těch konstitučních časů, aby je vůbec odbyla. Když sběratelky odešly, potkaly na schodech Roubínkovu schovanku, která tam patrně na ně čekala. Zardívajíc se, vyňala z kapsičky své zástěrky něco v papíře zabaleného a odevzdala sběratelkám.
@@ -106,3 +108,5 @@ Hrabě přichází, teď snad dá rozkaz. Ale zastaviv se u vrchního, rozmlouv
 Ale že lid se chopil zbraně proti císařskému vojsku, oznamoval hrabě, a proti tomu on že bojovati nebude, nechť tedy gardisté se rozejdou po svém úřadu a povolání.
 
 To bylo tak neočekávané, že ani Roubínek tolik radostí nemohl pojmouti. Tolik nenadálých převratů a přechodů, že ani nemohl výraz dáti své radosti. Vytrhl se nejprvněji z řady, a zapomenuv na svou vážnou chůzi, pospíchal k manželce a dceři. Již na schodech strhl čapku a odepínal šavli. Pak sklesl unaven do své lenošky, ale jen málo mluvil.
+
+</section>

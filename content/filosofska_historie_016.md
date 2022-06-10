@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Otevřelo se nové jaro, jež přineslo mimo květ a zpěv také červánky a skvělou zář nové doby, po které národové absolutismem sklíčení toužili a dychtili. Metternich padl, censura zrušena a dovoleno zřízení národní obrany. Dne 15. března prohlášena konstituce. Zpráva o tom naplnila Prahu i veškeré království plesem a jásotem.
 
 Národní obrana či garda zřizovala se nejenom v Praze, ale po veškerém království.
@@ -164,3 +166,5 @@ Svět se obracel vzhůru kostkou! Když sama milostivá vrchnost se přidává k
 [23](./resources/undefined) A co profesoři a co páter rektor? _Pozn. red._
 
 [24](./resources/undefined) … mluv přece rozumně. _Pozn. red._
+
+</section>

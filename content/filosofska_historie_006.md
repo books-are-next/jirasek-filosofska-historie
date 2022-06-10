@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 Neočekávejte, že vás zavedu do stinné zahrady Akademovy, abyste tam naslouchali učení božského Platona, aniž ve tmavý stín bujně zeleného vavřínu, kde by za ambrosiové noci mysl vaši naplňovala rozkoší hudba sfér nebeských.
 
 Nevkročíme v onen svět, „kde Sokrates každému o sobě, že nic neumí, povídá, kde Diogenes ze sudu vykoukaje všecky mimojdoucí haní, kde Timon všechněm zlořečí, Demokritos všemu tomu se směje, Herakleitos naproti tomu pláče, Epikur hoduje a Anaxarchos praví, že to všecko nic není“.
@@ -21,3 +23,5 @@ Tím se stávalo, že starší lidé, kteří již nějaký úřádek zastávali
 Tenkráte bývalo na Židovském, někdy za dob bratrských Olivet­ském kopci živo! V nedalekém renesančním zámku vrchnost s četnou družinou a služebnictvem, v koleji piaristské mnoho bratří řádových i kleriků; a když ráno na vížce gymnasijní studentským zvonem zazvoněno, jen se hemžilo kol studenty a posluchači, jichž bývalo zapsáno v logice i tři sta, ve fysice pak na sedmdesát.
 
 Tak prolog svůj doříkav, již oponu vyhrnuji.
+
+</section>

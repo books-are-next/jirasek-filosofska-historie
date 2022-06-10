@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Bylo roku 1847 ke konci měsíce dubna.
 
 Jaro tehda záhy a utěšeně se otvíralo. Stromoví nevelikého parku kolem zámku litomyšlského již pučelo a nejedna houština pokryla se hebounkým šatem čerstvě zelených listů. V jasném, čistém vzduchu obrážely se určitě věže piaristského kostela a zámecké štíty s četnými báněmi. Cesty byly jako mlat a drsná dlažba dlouhého náměstí vyschla úplně. Teplé paprsky opíraly se do domů novějších i starších ještě z dob bratrských a vnikaly až do podsíní, klenoucích se po obou stranách táhlého náměstí. Za toho teplého odpoledne panoval po celém podloubí čilý život. Největší ruch v mládeži, kterou zář a teplo nového jara jako broučky vylákaly.
@@ -163,7 +165,9 @@ Knížka se rozevřela. „Smím se podívati na titul?“
 
 Lenka, upírajíc na filosofa své pěkné, jasné oči, mlčela. Ten, maje nepříliš tlustou knížku malého oktávu v rukou, četl hlasitě nadpis:
 
-  
+</section>
+
+<section>
 
 ALMANACH
 
@@ -171,7 +175,9 @@ aneb
 
 Novoročenka 1823.
 
-  
+</section>
+
+<section>
 
 Pak bezděky spustiv listy palcem zadržované, hleděl na kmitající se stránky, na řádky prosou i veršem, až oči jeho utkvěly zase na tváři mladé dívky.
 
@@ -286,3 +292,5 @@ A matinka významně pohlédla na dceru.
 [4](./resources/undefined) … pyšný, bylo by možno ho vystát. _Pozn. red._
 
 [5](./resources/undefined) Žárlivost. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Zástup lidí se rozešel, všechen hluk potuchl a oheň doplanul. Kolem noční šero, jímž u lesů na obzorných výšinách ještě tu a tam ohně jako krvavé hvězdy zářily. A jak tichá, vlažná noc svou drahou se ubírala, všecka zahalena tmavým, vzdušným pláštěm, zhasínal oheň po ohni, až po veškeré krajině nebylo ani jiskřičky. Halekání, zpěv a jásot bujných junáků umlkly a zavládlo tajemné ticho první májové noci.
 
 Luzná, velebná chvíle velikého mysteria –
@@ -39,11 +41,15 @@ Div divoucí! Copak jej přimělo, že tak záhy vstal a studuje!
 
 Když pak slečna osaměla, vstoupila do studentského pokoje, aby rovnala po svém obyčeji na stolech. Na samém kraji ležela nevelká knížka, kterouž ihned poznala. Byla to ta, ze které Frybort ráno studoval. Jaká to kouzelnice, že na tak dlouho připoutala filosofa, jenž se do filosofie tuze nehnal? Slečna Elis otevřela knížku tam, kde bylo znamení založeno, a četla:
 
-  
+</section>
+
+<section>
 
 > MLYNÁŘOVA OPIČKA
 
-  
+</section>
+
+<section>
 
 _„Ženo! přestaň pořád vrčet,  
 jako had vždy na mne syčet!“  
@@ -52,7 +58,9 @@ zakřik mlynář Toničku —
 nebo se ti pronevěřil,  
 že mám rád svou opičku!“_
 
-  
+</section>
+
+<section>
 
 Ah, to ta filosofie! Žertovná báseň! Ovšem, oč jiného by se ten šelma staral, než o kudrlinky a žerty? Jaká to knížka? Slečna Elis četla nápis, který Vavřena u Lenky byl nahlas četl. Když chtěla přiklopiti desku, padly jí do očí psané řádky na vnitřní straně. Zarazila se. Přečetla je jednou, po druhé, pak přistoupila k oknu, naklonila se k rukopisu, bedlivě jej prohlížela. Na zvadlé tváři bylo patrno pohnutí. Chvilku stála zamyšlena nad tím písmem, pak rychle odešla do svého pokoje, kdež ze skříně vytáhla modlicí knížky.
 
@@ -62,7 +70,9 @@ Na listu tom vymalována vodovými barvami bělokorá bříza, jejíž dlouhé, 
 
 Na druhé straně památního lístku bylo latinkou napsáno:
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -72,7 +82,9 @@ Dej mi, děvenko, ruku! Slza velká tvář ti polívá! —_
 
 * * *
 
-  
+</section>
+
+<section>
 
 Dále slečna Elis nečetla. Písmo v almanachu i na lístku bylo stejné. Papír vypadl jí z ruky na knížku, na jejíž nápis „Myslimírem“ podepsaný znova hleděla. Ale oči se jí zakalily, a odvrátivši se, patřila na podobiznu mladého kněze, nad jehož hlavou vinul se půlvěnec umělých květin. Drobné, suché ruce její se bezděky sepjaly.
 
@@ -230,7 +242,9 @@ Cesta vedoucí vesnicí k háji a druhá kaštanovou alejí kolem rybníka př
 
 Blížící se již z daleka slyšeli jásavou muziku z hlubin hájových, a když umlkla, rozléhal se jasným vzduchem sborový zpěv. Stinnou klenbou košatých stromů zaznívala starostudentská píseň.
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -241,11 +255,15 @@ dulce carmen!_
 
 * * *
 
-  
+</section>
+
+<section>
 
 A sotvaže sbor dozpíval, odpovídal mu jiný z jiného stinného místa:
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -256,7 +274,9 @@ dulce carmen —_
 
 * * *
 
-  
+</section>
+
+<section>
 
 Když slečna Elis s Márinkou domácích do Nedošína došly, byl háj už všecek plničký. Dole před restaurací, nevelkým to, úhledným domkem s krytým sloupořadím, usadili se hosté na prostých, prkenných lavicích v háji, neb rozložili se na hebkém trávníku pod košatými stromy. Všude živo, všude hluku a smíchu. Hlavní proud mířil stezičkou od restaurace pod strání kolem kapličky sv. Antonína do návrší, kdež byl sál. Tam hlavní veselost.
 
@@ -476,7 +496,9 @@ Vavřena vyňal z náprsní kapsy malou, tenkou knížku.
 
 Děvče zvědavě nahlédlo na první stránku.
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -485,10 +507,14 @@ večerní máj — byl lásky čas —_
 
 * * *
 
-  
+</section>
+
+<section>
 
 stálo na prvních řádcích.
 
 * * *
 
 [9](./resources/undefined) Conjuratio = spiknutí. Secessio = odchod, odloučení se. Vzato z římských dějin, kde odchod na jiný pahorek byl cosi jako stávkou nespokojeného lidu.
+
+</section>
