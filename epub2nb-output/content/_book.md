@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-12-06T00:00:00.000Z'
   isbn: 978-80-274-2064-3
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - filosofska_historie_005.html

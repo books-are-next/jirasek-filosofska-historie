@@ -8,7 +8,9 @@
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-12-06T00:00:00.000Z",
-      "isbn": "978-80-274-2064-3"
+      "isbn": "978-80-274-2064-3",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -507,6 +509,6 @@
       "user": "books-are-next",
       "repo": "jirasek-filosofska-historie"
     },
-    "generatedAt": 1655271384681
+    "generatedAt": 1655364220843
   }
 }
