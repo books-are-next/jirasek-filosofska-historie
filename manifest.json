@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-filosofska-historie-b7d37d1",
-  "revision": "b7d37d1",
+  "identifier": "jirasek-filosofska-historie-143bad8",
+  "revision": "143bad8",
   "readingOrder": [
     "promo.html",
     "filosofska_historie_005.html",
@@ -27,11 +27,11 @@
     "filosofska_historie_017.html",
     "filosofska_historie_018.html",
     "filosofska_historie_019.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978923456
+    "date": "Thu Jul 07 2022 08:28:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182508761
   },
   "documents": [
     {
@@ -335,7 +335,7 @@
       "role": "chapter",
       "order": 15,
       "prev": "filosofska_historie_018.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -348,11 +348,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 129,
-      "chars": 874,
+      "chars": 873,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "filosofska_historie_019.html",
       "next": null,
@@ -370,7 +370,7 @@
   "totals": {
     "all": {
       "words": 29055,
-      "chars": 176780,
+      "chars": 176779,
       "ideas": 1313
     },
     "chapters": {
