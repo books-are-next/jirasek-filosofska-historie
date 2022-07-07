@@ -31,7 +31,7 @@ readingOrder:
   - filosofska_historie_017.html
   - filosofska_historie_018.html
   - filosofska_historie_019.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
