@@ -55,7 +55,7 @@ Když to Roubínkovi pověděli, vyjasnila se mu tvář a pravil: „No, bude z
 
 V městě mnoho se vypravovalo o Frybortovi a Vavřenovi. Ač slečna Elis a jejím návodem dobří přátelé tvrdili, že její filosofové na vagace odešli, přece tu i tam se povídalo, že šli do Prahy a tam zůstali, a Roubínková dodávala:
 
-„Dobře to Roubínek povídal, že to s tím Vavřenou ein schlechtes Ende nehmen wird.[25](./resources/undefined)“ –
+„Dobře to Roubínek povídal, že to s tím Vavřenou ein schlechtes Ende nehmen wird.[^25]“ –
 
 Minulo několik dní a žádných zpráv nebylo.
 
@@ -123,6 +123,6 @@ O masopustě příštího roku přijel si Frybort s četnou družinou hanácko
 
 * * *
 
-[25](./resources/undefined) … vezme zlý konec. _Pozn. red._
+[^25]: … vezme zlý konec. _Pozn. red._
 
 </section>

@@ -23,7 +23,7 @@ Pletla punčochu.
 
 Nevšímala si ani tmavomodrého nebe, ani slunečního jasu, aniž vyhlížela na náměstí, a přece nepracovala tak pozorně a zručně jako jindy. Ruce její klesly často v klín a oči její pohlížely dovnitř pokoje, ke dveřím vedoucím do vedlejší jizby a pak zase na hodiny s alabastrovými sloupky, stojící na prádelníku, jehož mosazné kroužky a žluté plechové ozdoby leskly se jako zlato.
 
-Všecko se v pokoji slečny Elis jen třpytilo, nikde ani prášku, vše bylo jak náleží rozestaveno, nikde ani stopy nejmenšího nepořádku. Židle a pohovka, potažená bělostným povlakem, byly staromódní, pamatující dobu kvetoucího copu; zato kulatý stůl, pokrytý pestrou pokrývkou, a ostatní nářadí byly již modernější, zrobeny dle vkusu dob z konce republiky a z dob velikého císaře[1](./resources/undefined).
+Všecko se v pokoji slečny Elis jen třpytilo, nikde ani prášku, vše bylo jak náleží rozestaveno, nikde ani stopy nejmenšího nepořádku. Židle a pohovka, potažená bělostným povlakem, byly staromódní, pamatující dobu kvetoucího copu; zato kulatý stůl, pokrytý pestrou pokrývkou, a ostatní nářadí byly již modernější, zrobeny dle vkusu dob z konce republiky a z dob velikého císaře[^1].
 
 Malá ručička minula již IV. a blížila se na V.
 
@@ -223,7 +223,7 @@ Na chodbě se ozvaly hlasy. Lenka sebou trhla a chopila se ihned práce.
 
 Hned nato otevřely se dveře a paní aktuárová se slečnou Lotty a malým Frickem vstoupila.
 
-„Ach, schau, Lotty, pan Vavřena ještě čeká. To jsme vás obtěžovali, aber es ist so schön draussen,[2](./resources/undefined)“ mluvila rychle a živě, takže uctivě uklonivší se filosof nenabyl času, aby odpověděl.
+„Ach, schau, Lotty, pan Vavřena ještě čeká. To jsme vás obtěžovali, aber es ist so schön draussen,[^2]“ mluvila rychle a živě, takže uctivě uklonivší se filosof nenabyl času, aby odpověděl.
 
 Dámy zůstaly v pokoji, on pak odešel s chlapcem do vedlejšího, kde již knihy a papíry na stole byly přichystány.
 
@@ -261,7 +261,7 @@ Vavřena sebou pohnul.
 
 „Ach!“ povzdechla blaženě Lotty, hledíc tázavě na mladého filosofa.
 
-„To by také mělo být! Odjakživa, co tu filosofie je, byly každého roku. Es ist ihr Vorrecht![3](./resources/undefined)“
+„To by také mělo být! Odjakživa, co tu filosofie je, byly každého roku. Es ist ihr Vorrecht![^3]“
 
 „Ach, kdyby byly!“ opakovala dceruška a široce otevřené oči snivě upřela do prázdna, jako by tam viděla všecky rozkoše té studentské slavnosti.
 
@@ -275,22 +275,22 @@ Když pak se poroučel, stihl poslední jeho pohled pracující Lenku. Ona to do
 
 „Nuže?“
 
-„Že by prý pan Vavřena byl hezký a hodný, že kdyby nebyl tak stolz, so könnte man ihn ausstehen.[4](./resources/undefined)“
+„Že by prý pan Vavřena byl hezký a hodný, že kdyby nebyl tak stolz, so könnte man ihn ausstehen.[^4]“
 
-„Ó, to je závist a Eifersucht[5](./resources/undefined).“
+„Ó, to je závist a Eifersucht[^5].“
 
 A matinka významně pohlédla na dceru.
 
 * * *
 
-[1](./resources/undefined) Napoleona.
+[^1]: Napoleona.
 
-[2](./resources/undefined) … ale venku je tak hezky. _Pozn. red._
+[^2]: … ale venku je tak hezky. _Pozn. red._
 
-[3](./resources/undefined) Je to vaše výsada! _Pozn. red._
+[^3]: Je to vaše výsada! _Pozn. red._
 
-[4](./resources/undefined) … pyšný, bylo by možno ho vystát. _Pozn. red._
+[^4]: … pyšný, bylo by možno ho vystát. _Pozn. red._
 
-[5](./resources/undefined) Žárlivost. _Pozn. red._
+[^5]: Žárlivost. _Pozn. red._
 
 </section>

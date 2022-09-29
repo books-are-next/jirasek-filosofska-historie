@@ -45,7 +45,7 @@ Než pořád ještě čekala, že bude žadonit; on se však jen omluvil, odeše
 
 Šla ze sálu k matince všecka od tance rozehřátá. Právě odcházela od paní aktuárové Rollerka.
 
-„Pojď, Lotty, komm, komm, mein liebes Kind! Bedenke nur! Die Leny![10](./resources/undefined)“
+„Pojď, Lotty, komm, komm, mein liebes Kind! Bedenke nur! Die Leny![^10]“
 
 „Co se stalo?“
 
@@ -235,6 +235,6 @@ Tou dobou již Márinka sladce spala. Neslyšela deště, jenž na okna jejího 
 
 * * *
 
-[10](./resources/undefined) … pojď, pojď, mé milé dítě. Jen pomysli! Ta Lenka! _Pozn. red._
+[^10]: … pojď, pojď, mé milé dítě. Jen pomysli! Ta Lenka! _Pozn. red._
 
 </section>
