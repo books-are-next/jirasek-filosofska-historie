@@ -29,13 +29,13 @@ Bůh ví, kde se ti vlastenci najednou vzali! Vyrostli přes noc jako houby po d
 
 „Bedenken Sie, ta naše Leny! Dříve pořád nemluvná, tvrdohlavá, teď hovorná a veselá. To je všechno –“
 
-„Diese Konstitution! Uviděj, man wird noch rauben und morden!“[22](./resources/undefined)
+„Diese Konstitution! Uviděj, man wird noch rauben und morden!“[^22]
 
 A což potom, když Lottynka přichvátavši domů oznamovala, že filosofové měli velikou schůzi a že zařídí studentskou legii!
 
 „Teď jsme hotovi!“ zavzdychal Roubínek. „Co je to, dá-li se dítěti nůž nebo břitva? Studentům šavle místo per! Teď jsme hotovi!“
 
-„Und was die Professoren und was der Pater Rector?[23](./resources/undefined) Nemohou tomu zabránit?“
+„Und was die Professoren und was der Pater Rector?[^23] Nemohou tomu zabránit?“
 
 „Jakpak, když ani ouřad – ani ministerstvo nemá respektu,“ a Roubínkův pohled utkvěl ztrnule na Herodesovi králi.
 
@@ -143,7 +143,7 @@ Paní Roubínková ztrnula, když muž její, vrátiv se z kanceláře, do poko
 
 „Bude zámecká garda.“
 
-„Aber Roubínek, rede doch vernünftig,[24](./resources/undefined) vždyť je v městě garda.“
+„Aber Roubínek, rede doch vernünftig,[^24] vždyť je v městě garda.“
 
 „Pan hrabě Žorž chce míti – taky gardu –“
 
@@ -161,10 +161,10 @@ Svět se obracel vzhůru kostkou! Když sama milostivá vrchnost se přidává k
 
 * * *
 
-[22](./resources/undefined) Tohle konstituční zřízení! Uviděj, ještě se bude loupit a vraždit. _Pozn. red._
+[^22]: Tohle konstituční zřízení! Uviděj, ještě se bude loupit a vraždit. _Pozn. red._
 
-[23](./resources/undefined) A co profesoři a co páter rektor? _Pozn. red._
+[^23]: A co profesoři a co páter rektor? _Pozn. red._
 
-[24](./resources/undefined) … mluv přece rozumně. _Pozn. red._
+[^24]: … mluv přece rozumně. _Pozn. red._
 
 </section>

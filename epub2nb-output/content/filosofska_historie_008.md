@@ -105,7 +105,7 @@ V pokojíku bylo ticho, jen občas ozvalo se cinknutí lžíce o talíř. Zele
 
 _Und weh dem Lande, dessen Söhne  
 frech verachten Heimatstöne  
-und heimatlichen Sagenkreis![6](./resources/undefined)_
+und heimatlichen Sagenkreis![^6]_
 
 * * *
 
@@ -213,6 +213,6 @@ Ale Frybort nedbal, a maje kytaru na zelené pentli zavěšenou, drnkal dál a�
 
 * * *
 
-[6](./resources/undefined) A běda zemi, jejíž synové / hrubě pohrdají rodnou řečí / a věncem rodných pověstí! _Pozn. red._
+[^6]: A běda zemi, jejíž synové / hrubě pohrdají rodnou řečí / a věncem rodných pověstí! _Pozn. red._
 
 </section>

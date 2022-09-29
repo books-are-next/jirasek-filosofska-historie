@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-Nedělní událost v koleji filosofské byla v městě něco neobyčejného, na dlouhé časy neslýchaného. Mnoho o tom všude mluvili a rozumovali, co se nyní těm odbojným studentům stane. Čekali, že hned na druhý den bude důkladné vyslýchání, ba mnozí se obávali, že někteří z pánů filosofů dostanou consilium abeundi[7](./resources/undefined).
+Nedělní událost v koleji filosofské byla v městě něco neobyčejného, na dlouhé časy neslýchaného. Mnoho o tom všude mluvili a rozumovali, co se nyní těm odbojným studentům stane. Čekali, že hned na druhý den bude důkladné vyslýchání, ba mnozí se obávali, že někteří z pánů filosofů dostanou consilium abeundi[^7].
 
 Ale mimo nadání jako by věc usnula. Nepřišel sice profesor náboženství druhého dne do koleje, ale prozatím nic jiného se nestalo.
 
@@ -137,7 +137,7 @@ Večer, ohně, světlo i křiky, vše upomínalo Vavřenu na domov. Bezděky za
 
 „Nevím, co na tom mají!“ ozvalo se opodál.
 
-„Ach, das gemeine Volk!“[8](./resources/undefined)
+„Ach, das gemeine Volk!“[^8]
 
 Poznal po hlase paní Roubínkovou a dle dodatku slečnu Lottynku. Neobrátiv se ani, aby ho nepoznaly, odešel a nerozmýšleje se dal se po mezi do polí. Dámy přešly, hluk a křiky mdlely, až jen ztemna se ozývaly.
 
@@ -159,8 +159,8 @@ A nežli se Vavřena nadál, byl Špína ten tam. Ohlédnuv se spatřil, jak po
 
 * * *
 
-[7](./resources/undefined) Vyloučení ze studia. _Pozn. red._
+[^7]: Vyloučení ze studia. _Pozn. red._
 
-[8](./resources/undefined) Ach, ten sprostý lid! _Pozn. red._
+[^8]: Ach, ten sprostý lid! _Pozn. red._
 
 </section>

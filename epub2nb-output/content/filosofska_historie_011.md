@@ -174,7 +174,7 @@ Chodbou piaristické koleje kráčel bělovlasý stařec vysoké postavy, páter
 
 „Ale toť něco neslýchaného! Conjuratio!“
 
-„Secessio!“ usmál se stařec. „Toť máte v malém, co v historii na každé stránce čteme.[9](./resources/undefined) Potlačené svobody, privilegia –“
+„Secessio!“ usmál se stařec. „Toť máte v malém, co v historii na každé stránce čteme.[^9] Potlačené svobody, privilegia –“
 
 „Ale tomu se musí zabránit, jdu k rektorovi.“
 
@@ -515,6 +515,6 @@ stálo na prvních řádcích.
 
 * * *
 
-[9](./resources/undefined) Conjuratio = spiknutí. Secessio = odchod, odloučení se. Vzato z římských dějin, kde odchod na jiný pahorek byl cosi jako stávkou nespokojeného lidu.
+[^9]: Conjuratio = spiknutí. Secessio = odchod, odloučení se. Vzato z římských dějin, kde odchod na jiný pahorek byl cosi jako stávkou nespokojeného lidu.
 
 </section>

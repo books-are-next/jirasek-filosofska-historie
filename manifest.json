@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-filosofska-historie-242f35f",
-  "revision": "242f35f",
+  "identifier": "jirasek-filosofska-historie-8c32b10",
+  "revision": "8c32b10",
   "readingOrder": [
     "promo.html",
     "filosofska_historie_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:39:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414340451
+    "date": "Thu Sep 29 2022 21:26:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486764086
   },
   "documents": [
     {
@@ -90,7 +90,7 @@
       "title": "I",
       "file": "filosofska_historie_007.html",
       "words": 2768,
-      "chars": 16668,
+      "chars": 16675,
       "ideas": 140,
       "role": "chapter",
       "order": 3,
@@ -110,7 +110,7 @@
       "title": "II",
       "file": "filosofska_historie_008.html",
       "words": 1326,
-      "chars": 7952,
+      "chars": 7955,
       "ideas": 81,
       "role": "chapter",
       "order": 4,
@@ -150,7 +150,7 @@
       "title": "IV",
       "file": "filosofska_historie_010.html",
       "words": 1685,
-      "chars": 9936,
+      "chars": 9938,
       "ideas": 79,
       "role": "chapter",
       "order": 6,
@@ -170,7 +170,7 @@
       "title": "V",
       "file": "filosofska_historie_011.html",
       "words": 4789,
-      "chars": 28852,
+      "chars": 28853,
       "ideas": 233,
       "role": "chapter",
       "order": 7,
@@ -190,7 +190,7 @@
       "title": "VI",
       "file": "filosofska_historie_012.html",
       "words": 2166,
-      "chars": 12986,
+      "chars": 12988,
       "ideas": 111,
       "role": "chapter",
       "order": 8,
@@ -210,7 +210,7 @@
       "title": "VII",
       "file": "filosofska_historie_013.html",
       "words": 1951,
-      "chars": 11660,
+      "chars": 11664,
       "ideas": 106,
       "role": "chapter",
       "order": 9,
@@ -230,7 +230,7 @@
       "title": "VIII",
       "file": "filosofska_historie_014.html",
       "words": 3801,
-      "chars": 22861,
+      "chars": 22858,
       "ideas": 149,
       "role": "chapter",
       "order": 10,
@@ -250,7 +250,7 @@
       "title": "IX",
       "file": "filosofska_historie_015.html",
       "words": 1961,
-      "chars": 12030,
+      "chars": 12024,
       "ideas": 71,
       "role": "chapter",
       "order": 11,
@@ -270,7 +270,7 @@
       "title": "X",
       "file": "filosofska_historie_016.html",
       "words": 1932,
-      "chars": 12120,
+      "chars": 12117,
       "ideas": 81,
       "role": "chapter",
       "order": 12,
@@ -310,7 +310,7 @@
       "title": "XII",
       "file": "filosofska_historie_018.html",
       "words": 1324,
-      "chars": 8151,
+      "chars": 8150,
       "ideas": 60,
       "role": "chapter",
       "order": 14,
@@ -370,12 +370,12 @@
   "totals": {
     "all": {
       "words": 29055,
-      "chars": 176780,
+      "chars": 176786,
       "ideas": 1313
     },
     "chapters": {
       "words": 28920,
-      "chars": 175863,
+      "chars": 175869,
       "ideas": 1293
     }
   }

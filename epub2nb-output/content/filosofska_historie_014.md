@@ -23,7 +23,7 @@ Byl sousedem rektorovým. Když takový pán z krásného zámku, bohatý, mocn
 
 Hrabě Žorž byl ten deus ex machina, jenž všechno umírnil, smířil a dobře zakončil.
 
-Deputace k profesoru náboženství, některé „primae e moribus“[13](./resources/undefined) a něco hodin ve filosofském karceru byly následky, které mnohé filosofy stihly za tu bouři v koleji a slavnost „majáles“.
+Deputace k profesoru náboženství, některé „primae e moribus“[^13] a něco hodin ve filosofském karceru byly následky, které mnohé filosofy stihly za tu bouři v koleji a slavnost „majáles“.
 
 Slečna Elis div se na Fryborta nerozhněvala, když v neděli ráno s ní a se všemi v bytu žalostně a bolestně se loučil, ubíraje se do koleje, aby vyměřené hodiny si tam odseděl. Šelma šelmovská! Ještě si z toho šašky tropí!
 
@@ -37,7 +37,7 @@ Všichni v městě se z toho potěšili, že filosofy horší a přísnějš�
 
 Než minul týden, měl Fricek nového instruktora, tichého, přičinlivého filosofa, o němž rektor dal panu aktuárovi svědectví, že pilně studuje, ano i více, nežli se v koleji žádá. Lottynka i matka z počátku jej nadmíru vlídně vítaly, jsouce k němu velmi laskavy, ale za týden už zchladla slečna dcera. Což všechno naplat, nebyl to přece Vavřena. Vyrovnal se mu věděním, ale to u slečinky nevážilo. Nebyl tak hezký, nadto, jak se zdálo, se jich ostýchal a bál. Přišel-li, pozdravil, odcházeje klonil se a zdravil opět, více téměř od něho neuslyšely.
 
-„Hodný je, aber unbeholfen[14](./resources/undefined),“ to byla suma všeho pozorování a úsudku slečny Lottynky, s čímž i matinka souhlasila.
+„Hodný je, aber unbeholfen[^14],“ to byla suma všeho pozorování a úsudku slečny Lottynky, s čímž i matinka souhlasila.
 
 Lenka by však odporovala a dala pravdě průchod, že pan instruktor je obratný. Sotva týden k nim chodil a již jí velmi zručně a opatrně dodal knížku, v níž našla psaníčko.
 
@@ -121,7 +121,7 @@ Prohřátým vzduchem chvěly se zvuky zvonu, poledne oznamujícího, minula pů
 
 Zdola slyšela Márinčin veselý hlas a Frybortův smích. Ó, dobře to skončilo! A tu již pan Zelenka. Bledá, suchounká tvář je vyjasněna, rty se usmívají.
 
-„Omnia eminenter,[15](./resources/undefined) slečno!“
+„Omnia eminenter,[^15] slečno!“
 
 „Však jste si toho zasloužil. Vítám vás.“
 
@@ -297,10 +297,10 @@ Doby radostí i starostí, doby úsilného studování, obavy a strachu ze zko
 
 * * *
 
-[13](./resources/undefined) Trojky z chování. _Pozn. red._
+[^13]: Trojky z chování. _Pozn. red._
 
-[14](./resources/undefined) … ale nešikovný. _Pozn. red._
+[^14]: … ale nešikovný. _Pozn. red._
 
-[15](./resources/undefined) Samé výborné. _Pozn. red._
+[^15]: Samé výborné. _Pozn. red._
 
 </section>

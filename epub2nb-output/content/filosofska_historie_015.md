@@ -65,7 +65,7 @@ Podzim minul, půda utuhla, a se zataženého, šedého nebe poletoval první s
 
 Již před Vánocemi bylo řečí, bylo těšení se na ples filosofský, jenž býval v městě nejkrásnějším, nejslavnějším. I letos chystali se naň velmi i páni výborové, mezi nimiž Frybort byl nejpřednější, nejobratnější, starali se, aby letošní předešlé krásou i nádherou překonal, jako by tušili, že to poslední za staroslavné filosofie.
 
-Lottynka Roubínková již záhy a pečlivě se připravovala. „Ty musíš býti královnou, keine andere[16](./resources/undefined)!“ říkávala paní aktuárová, když o šatech pracovaly. Lenka měla na nich nejhlavnější podíl.
+Lottynka Roubínková již záhy a pečlivě se připravovala. „Ty musíš býti královnou, keine andere[^16]!“ říkávala paní aktuárová, když o šatech pracovaly. Lenka měla na nich nejhlavnější podíl.
 
 Musila na nich pilně šíti, aniž se přitom těšiti mohla, že i ona ten ples uvidí, kterého se Lottynka dočkati nemohla. Nedoufala ani dost málo, že by tam směla jíti. Netoužila by; než jak mohla zůstati poklidnou? Několik hodin býti Vavřenovi nablízku, s ním hovořit! Ale dály se divy. Týden před plesem ptala se jí teta, chce-li také jít, aby se chystala. Roubínková neučinila tak ani na domluvu svého muže, nýbrž spíše proto, že s mnohých stran slyšela, jak o tom ve světě se mluví, že je zlá, přísná, ba krutá.
 
@@ -81,7 +81,7 @@ Dnes měl na sobě „Klapálka“, černý frak, který mu nejlépe padl, mají
 
 Vtom zahoukla mocná rána z moždíře a za ní hned druhá. Ples se začínal. Lotty, právě dokončivši svou toaletu, stála před zrcadlem, důkladně se v něm zhlížejíc. Matka se zalíbením a nadšením patřila na svěží, sličnou dívku ve vkusných, bohatě zdobených šatech.
 
-„Nein, ty musíš být královnou, Lotty! Wenn eine Dame schön sein soll, muss sie schön gewachsen sein,[17](./resources/undefined) a to jseš ty, Lotty!“ Znova hleděla, znova přehlížela. „Wenn eine Dame schön sein soll, muss sie dunkle Augen haben,[18](./resources/undefined) a ty máš! Ještě tu mašli, Lotty, tak – Wenn eine Dame – schön sein soll – muss sie dunkles Haar haben,[19](./resources/undefined) a ty máš. Aber Roubínek!“ zvolala mrzutě, když netrpělivý manžel poznovu na dveře zaklepal. „Wie ich sag,[20](./resources/undefined) ty musíš být královnou.“
+„Nein, ty musíš být královnou, Lotty! Wenn eine Dame schön sein soll, muss sie schön gewachsen sein,[^17] a to jseš ty, Lotty!“ Znova hleděla, znova přehlížela. „Wenn eine Dame schön sein soll, muss sie dunkle Augen haben,[^18] a ty máš! Ještě tu mašli, Lotty, tak – Wenn eine Dame – schön sein soll – muss sie dunkles Haar haben,[^19] a ty máš. Aber Roubínek!“ zvolala mrzutě, když netrpělivý manžel poznovu na dveře zaklepal. „Wie ich sag,[^20] ty musíš být královnou.“
 
 Zimním večerem houkaly rány z moždířů.
 
@@ -123,7 +123,7 @@ Hráli, tančili.
 
 Nastala půlnoc a dosud Vavřena nepřišel Lottynce se poklonit a tedy již také nepřijde. Nezvítězila. Majíc bílé čelo mráčkem nespokojenosti zastíněno, přistoupila ke své matce.
 
-„Bedenke nur, wie er ungalant ist,“[21](./resources/undefined) jala se stěžovati, ale vtom dostalo se jí náhrady. Pan hrabě obcházeje zastavil se u paní aktuáro­vé a dcery, k nimž promluvil několik vlídných slov; Roubínková zatrnula blažeností. Když pak odešel a ona se do vedlejšího pokoje za manželem ubírala, pohlédla opovržlivě na Vavřenu i Lenku, jež potkala. Kdož se jí vyrovná? Co je on, ten student ze selského rodu? Není divu, sprostý sprostého hledá! Roubínková neopomenula známým sděliti, co pan hrabě lichotného jim řekl, a mžikem rozneslo se, že Lottynku prohlásil královnou plesu.
+„Bedenke nur, wie er ungalant ist,“[^21] jala se stěžovati, ale vtom dostalo se jí náhrady. Pan hrabě obcházeje zastavil se u paní aktuáro­vé a dcery, k nimž promluvil několik vlídných slov; Roubínková zatrnula blažeností. Když pak odešel a ona se do vedlejšího pokoje za manželem ubírala, pohlédla opovržlivě na Vavřenu i Lenku, jež potkala. Kdož se jí vyrovná? Co je on, ten student ze selského rodu? Není divu, sprostý sprostého hledá! Roubínková neopomenula známým sděliti, co pan hrabě lichotného jim řekl, a mžikem rozneslo se, že Lottynku prohlásil královnou plesu.
 
 Nejhůře se měl pan aktuár Roubínek. Piják nebyl, v karty nemohl si zahrát a nikde tu na stěně nevisel Herodes král, na nějž by zraky své mohl upírati. Chodíval časně spat, teď tu celou noc! Zíval, toužil po „obrštu“, noční čepici a měkké posteli. Ale to jím pohnulo a jej potěšilo, jak milostivá vrchnost blahosklonně s manželkou hovořiti ráčila.
 
@@ -135,16 +135,16 @@ Myslila na slova Vavřenova, na svatý jeho slib, který jí byl slíbil v ozdo
 
 * * *
 
-[16](./resources/undefined) … žádná jiná. _Pozn. red._
+[^16]: … žádná jiná. _Pozn. red._
 
-[17](./resources/undefined) Jestliže má být nějaká dáma krásná, musí být pěkně rostlá. _Pozn. red._
+[^17]: Jestliže má být nějaká dáma krásná, musí být pěkně rostlá. _Pozn. red._
 
-[18](./resources/undefined) … musí mít tmavé oči. _Pozn. red._
+[^18]: … musí mít tmavé oči. _Pozn. red._
 
-[19](./resources/undefined) … musí mít tmavé vlasy. _Pozn. red._
+[^19]: … musí mít tmavé vlasy. _Pozn. red._
 
-[20](./resources/undefined) Jak říkám. _Pozn. red._
+[^20]: Jak říkám. _Pozn. red._
 
-[21](./resources/undefined) Jen považ, jak je negalantní. _Pozn. red._
+[^21]: Jen považ, jak je negalantní. _Pozn. red._
 
 </section>

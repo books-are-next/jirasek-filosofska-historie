@@ -129,7 +129,7 @@ Lenka, předtím na okamžik jako ztrnulá, vztyčila nyní hlavu a kvapně ode
 
 „Ta bude vyvádět!“ mínila Lotty, když sestřenka odešla.
 
-„Ta bude ještě paličatější! Na, es wird sich zeigen![11](./resources/undefined)“
+„Ta bude ještě paličatější! Na, es wird sich zeigen![^11]“
 
 Od slečny Elis odešla paní domácí, když jí bezděky způsobila velkou starost. Povědělať Márinčina matka, co zaslechla o studentech, zvláště o Vavřenovi a Frybortovi.
 
@@ -165,7 +165,7 @@ Frybort zasmál se znova.
 
 „Což vy, ale pan Vavřena. Co by ten dělal?“
 
-„Však oni si to dobře rozmyslí, než takového výborného studenta vyženou a zkazí. Ostatně, páter German se ho zastane a konec konců: ex moribus primam, cetera eminenter![12](./resources/undefined)“
+„Však oni si to dobře rozmyslí, než takového výborného studenta vyženou a zkazí. Ostatně, páter German se ho zastane a konec konců: ex moribus primam, cetera eminenter![^12]“
 
 Slečna, majíc po tolik let filosofy, přiučila se těm latinským třídám na vysvědčeních a rozuměla dobře, co Frybort řekl.
 
@@ -223,8 +223,8 @@ Elis doufám podala mu svou drobnou ruku, kterou mladý filosof vděčně stiskl
 
 * * *
 
-[11](./resources/undefined) No to se ukáže! _Pozn. red._
+[^11]: No to se ukáže! _Pozn. red._
 
-[12](./resources/undefined) Z mravů horší známku, z ostatního výborné.
+[^12]: Z mravů horší známku, z ostatního výborné.
 
 </section>
