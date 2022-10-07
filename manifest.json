@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-filosofska-historie-97638fc",
-  "revision": "97638fc",
+  "identifier": "jirasek-filosofska-historie-bad1e7b",
+  "revision": "bad1e7b",
   "readingOrder": [
     "promo.html",
     "filosofska_historie_005.html",
@@ -30,8 +30,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:55:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924132118
+    "date": "Fri Oct 07 2022 14:03:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151414466
   },
   "documents": [
     {
